@@ -8,6 +8,11 @@ const dictionaryHeader = fs.readFileSync(dictionaryHeaderFile, "utf-8").toString
 
 const villagerMode = process.argv[2]?.toLowerCase().startsWith("v")
 
+if(!fs.existsSync("./output")) {
+  fs.mkdirSync("./output")
+}
+
+
 csv()
   .fromFile(vocabFile)
   .then(async words => {
