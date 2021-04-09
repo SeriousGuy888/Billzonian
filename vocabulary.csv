@@ -1,5 +1,5 @@
 ﻿word,partOfSpeech,translation,example,notes,v_translation
-acrat,int,yes|correct; accurate,,"AF: accurate, rat",hûrr hàr
+acrat,int,yes|correct; accurate,,"AF: accurate, rat|IR: antonym=""uncrat""",hûrr hàr
 allahun,allahun,allahun,Allahun!,,hâra hurm_
 amazesome,adj,amazing,,,hûrr hàr
 angerful,adj,angry,I am very angerful.,,hur_
@@ -71,10 +71,10 @@ thievery,n,"the act of thieving, typically performed by a thiever.|Robbery",This
 transdiction,n,translation,,,
 translocate,vt,to teleport|to move|to transport,,,he_é
 un,adj,not very,That is very un,,
+uncrat,int,no|incorrect; inaccurate,,"AF: unaccurate|IR: antonym=""acrat""",hurn_
+unenabled,adj,disabled,Streamer mode is now unenabled.,,xàr
 ungoodful,adj,bad,,"See ""goodful""",
 ungoodly,adv,unwell|badly,,"See ""goodly""",
-uncrat,int,no|incorrect; inaccurate,,AF: unaccurate,hurn_
-unenabled,adj,disabled,Streamer mode is now unenabled.,,xàr
 unsmart,"adj, n",stupid|a stupid action,I did an unsmart.,AF: stupid,hâ ha_
 un-,adj,This prefix negates any regular adjective.,,e.g: ungoodful = not good,
 utilious,adj,useful,,AF: utilful,hûrr hàrm
