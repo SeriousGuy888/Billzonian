@@ -2,7 +2,7 @@ const fs = require("fs")
 const csv = require("csvtojson")
 
 const dictionaryHeaderFile = "./header.txt"
-const vocabFile = "./vocabulary.csv"
+const vocabFile = "../vocabulary.csv"
 
 const dictionaryHeader = fs.readFileSync(dictionaryHeaderFile, "utf-8").toString()
 
