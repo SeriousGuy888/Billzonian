@@ -1,4 +1,5 @@
 ﻿word,partOfSpeech,ipa,translation,example,notes,v_translation
+ac,int,æk,okay|yeah,,,hûrr hàr
 acrat,int,ˈækˌɹæt,yes|correct; accurate,,"AF: accurate, rat|IR: antonym=""uncrat""",hûrr hàr
 affection,n,aˈfɛkˌʃən,love,,,
 affectionise,v,aˈfɛkˌʃənˌaɪz,to love,,,
@@ -89,6 +90,7 @@ ungoodly,adv,ʌnˈgʊdˌli,unwell|badly,,"See ""goodly""",
 transdiction,n,tʃɹænzˈdɪkˌʃən,translation,,,
 translocate,vt,tʃɹænzˈloʊˌkeɪt,to teleport|to move|to transport,,,he_é
 un,adj,ʌn,not having traits of ness,That is very un,,
+unc,int,ʌnk,no,,,hurn_
 uncrat,int,ˈʌnˌkɹæt,no|incorrect; inaccurate,,"AF: unaccurate|IR: antonym=""acrat""",hurn_
 ukiluki,vi,ukiˈluˌki,to have a long spasm,,,
 unenabled,adj,ʌnənˈeɪˌbəld,disabled,Streamer mode is now unenabled.,,xàr
