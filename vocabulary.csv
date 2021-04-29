@@ -1,6 +1,7 @@
 ﻿word,partOfSpeech,ipa,translation,example,notes,v_translation
-ac,int,æk,okay|yeah,,,hûrr hàr
-acrat,int,ˈækˌɹæt,yes|correct; accurate|true|real,Affection is not acrat.,"AF: ac, accurate, rat|IR: antonym=""uncrat""",hûrr hàr
+ac,int,æk,yes|okay|yeah,"Ac, ac.","AF: acrat|Antonym: ""unc""",hûrr hàr
+acrat,adj,ˈækˌɹæt,correct; accurate|true|real,Affection is not acrat.,"Antonym=""uncrat""",hûrr hàr
+acrat,int,ˈækˌɹæt,"Alt form of ""ac""","Acrat, I can assist.","AF: ac, rat|Antonym=""uncrat""",hûrr hàr
 affection,n,aˈfɛkˌʃən,love,Affection is uncrat.,,
 affectionise,v,aˈfɛkˌʃənˌaɪz,to love,"""I affectionise you,"" is what I would say if affection was acrat.",,
 allahun,allahun,alaˈxun,allahun,Allahun!,,hâra hurm_
@@ -94,8 +95,9 @@ ungoodly,adv,ʌnˈgʊdˌli,unwell|badly,,"See ""goodly""",
 transdiction,n,tʃɹænzˈdɪkˌʃən,translation,,,
 translocate,vt,tʃɹænzˈloʊˌkeɪt,to teleport|to move|to transport,,,he_é
 un,adj,ʌn,not having traits of ness,That is very un,,
-unc,int,ʌnk,no,,,hurn_
-uncrat,int,ˈʌnˌkɹæt,no|incorrect; inaccurate|false|fake; fictitious|fictional,,"AF: unc, unaccurate|IR: antonym=""acrat""",hurn_
+unc,int,ʌnk,no,"Unc, I will not assist.",AF: uncrat|Antonym: acrat,hurn_
+uncrat,adj,ˈʌnˌkɹæt,"incorrect; inaccurate|false|fake; fictitious|fictional|Alt form of ""unc""",Affection is uncrat.,Antonym: acrat,hurn_
+uncrat,int,ˈʌnˌkɹæt,"Alt form of ""unc""",,Antonym: ac,hurn_
 ukiluki,vi,ukiˈluˌki,to have a long spasm,,,
 unenabled,adj,ʌnənˈeɪˌbəld,disabled,Streamer mode is now unenabled.,,xàr
 ungoodful,adj,ʌnˈgʊdˌfəl,bad,,"See ""goodful""",
