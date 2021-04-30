@@ -1,7 +1,7 @@
 ﻿word,partOfSpeech,ipa,translation,example,notes,v_translation
 ac,int,æk,yes|okay|yeah,"Ac, ac.","AF: acrat|Antonym: ""unc""",hûrr hàr
 acrat,adj,ˈækˌɹæt,correct; accurate|true|real,Affection is not acrat.,"Antonym=""uncrat""",hûrr hàr
-acrat,int,ˈækˌɹæt,"Alt form of ""ac""","Acrat, I can assist.","AF: ac, rat|Antonym=""uncrat""",hûrr hàr
+acrat,int,ˈækˌɹæt,"Alt form of ""ac""","Acrat, I can assist.","Antonym=""uncrat""",hûrr hàr
 affection,n,aˈfɛkˌʃən,love,Affection is uncrat.,,
 affectionise,v,aˈfɛkˌʃənˌaɪz,to love,"""I affectionise you,"" is what I would say if affection was acrat.",,
 allahun,allahun,alaˈxun,allahun,Allahun!,,hâra hurm_
@@ -86,6 +86,7 @@ politicise,vt,ˌpəˈlɪˌtəˌsaɪz,to lie (about),,,
 pronouncement,n,pɹəˈnaʊnˌ(t)smənt,pronunciation,That is an uncrat pronouncement!,,
 pseudocircle,n,ˈsuˌdoʊˌsəɹˌkəl,minecraft circle,,,
 quite the thing,adj,kwaɪt ðə θiŋ,very adjectival,,,
+rat,int,ˈɹæt,"Archaic form of ""ac""",,,
 reanimatedcorpse,n,ɹiˈænˌɪˌmeɪˌtɪdˌkɔɹps,zombie,,,hür_
 salut,int,ˈsæˌlɪt|ˌsaˈly,hi,,"Suffix ""s"" for multiple listeners.",hàrm
 salutation,n,sæljuˈteɪˌʃən,salutations|salute,,"Suffix ""s"" for multiple listeners.|Sometimes shortened to salut",hàrm
