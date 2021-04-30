@@ -21,7 +21,7 @@ csv()
     for(const entry of words) {
       let entryLines = ["\n"]
 
-      const { word, partOfSpeech, translation, example, notes, v_translation } = entry
+      const { word, pos, translation, example, notes, v_translation } = entry
 
       const fnl = str => str.replace(/\|/g, "\n") // fix new lines function
       const numberize = (str, useLetters, useAsteriskBullets) => {
@@ -44,7 +44,7 @@ csv()
       }
 
 
-      entryLines.push(`§0§l${word} §0§o${partOfSpeech}`)
+      entryLines.push(`§0§l${word} §0§o${pos}`)
       if(villagerMode) {
         entryLines.push(`§0${numberize(fnl(v_translation))}`)
         entryLines.push(`§7${numberize(fnl(translation))}`)
