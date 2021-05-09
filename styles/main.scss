@@ -1,0 +1,17 @@
+html {
+  font-family: "Montserrat", "Roboto", sans-serif;
+  background-color: #363636;
+  color: #efefef;
+
+  a {
+    color: #7edc8a;
+    &:hover {
+      color: #96f7a3;
+    }
+  }
+
+  .links {
+    display: flex;
+    flex-direction: column;
+  }
+}
