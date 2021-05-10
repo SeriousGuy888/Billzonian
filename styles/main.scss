@@ -13,5 +13,6 @@ html {
   .links {
     display: flex;
     flex-direction: column;
+    width: calc(max(50%, 300px));
   }
 }

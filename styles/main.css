@@ -20,5 +20,6 @@ html .links {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  width: calc(max(50%, 300px));
 }
 /*# sourceMappingURL=main.css.map */
