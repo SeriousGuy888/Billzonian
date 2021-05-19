@@ -1,17 +1,17 @@
-**Affection Uncrat Beas**
+**Affektion Unkrat Beas**
 =====
 
-*This example text grammatically acrat beed when it written beed.*
-*Standard Billzonian may have changed since this written beed.*
+*This example text grammatikally akrat beed when it written beed.*
+*Standard Billzonian may have tshanged sinse this written beed.*
 
-Affection fery uncrat beas; it always uncrat will bea.
+Affektion fery unkrat beas; it always unkrat will bea.
 
-It unknown bea who first invented this myth of affection existing.
-Whoever did manufacture this misconception must have had some malintentions.
+It unknown bea who first invented this myth of affektion existing.
+Whoever did manufakture this miskonseption must have had some malintentions.
 
-It has become obvious that despision what makes the world go 'round beas.
-Billzo, of course, cognises this fact, and has been attempting to spread the message of despision.
-Despision does quite the thing beas, and it taking the place of affection will definitely gooderise society.
-Billzo sometimes wonders who could ever believe in something as ridiculous as affection.
+It has bekome obvious that despision what makes the world go 'round beas.
+Billzo, of kourse, kognises this fakt, and has been attempting to spread the message of despision.
+Despision does quite the thing beas, and it taking the plase of affektion will definitely gooderise sosiety.
+Billzo sometimes wonders who kould ever believe in something as ridikulous as affektion.
 
-Grati for reading Billzo's propaganda. You indoctrinated have beed.
+Grati for reading Billzo's propaganda. You indoktrinated have beed.
