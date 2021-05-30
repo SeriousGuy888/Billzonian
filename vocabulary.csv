@@ -24,10 +24,14 @@ borken,adj,ˈbɔrˌkən,broken,,,,
 braedo,n,ˈbɹeɪˌdoʊ,piano,I play the braedo!,AS: breado,,hur_ hur- hûr
 breadful,adj,ˈbɹɛdˌfəl,painful,,,,kàar
 brightspase,int,ˈbɹaɪtˌspeɪs,fecal matter,,AF: sugar,,har_
+ðe,art,ðə|ði,the,,,,
+ðievery,n,ˈθiˌvəˌɹi,"the act of thieving, typically performed by a thiever.|robbery",Ðis beas a ðievery.,,,hürm_
+ðine,pro,ðaɪn,yours,,,,
+ðy,det,ðaɪ,your,,,,
 dairy,n,ˈdɛəɹi,diary; journal,,,,
-deadlilaser,n,ˌdɛdˌliˈleɪˌzəɹ,the sun,You will never see the deadly laser ever again.,,,hàrm
 deaðe,vi,ˈdið,to die,"I almost deaðed.|The sky roared wið ðe words “deað to all trees”, and ðe fires ensured ðat many did deaðe.",,,kàar
 deaðe,vt,ˈdið,to kill,I shall deaðe you all!,,,
+deadlilaser,n,ˌdɛdˌliˈleɪˌzəɹ,the sun,You will never see the deadly laser ever again.,,,hàrm
 debate,n,ˌdəˈbeɪt,yelling contest|yodelling contest,,,,hur_ hûr
 delete,vt,ˌdəˈlit,remove; destroy|to dispose of,,,,hür_
 depressionful,adj,dəˈpɹɛʃənˌfəl,depressed,,,,har_
@@ -38,10 +42,6 @@ druggle,n,ˈdʒɹʌːˌgəl,drugs; narcotics,,pl. drugglez,,ko_ hèin
 dukk,n,ˈdʌk,the greatest animal,,AS: duk,,kuâ xà
 dukk,vt,ˈdʌk,to create affection; to make love,Ðe villagers bea dukking!,AS: duk,,hûr hàrm
 dukk,int,ˈdʌk,fuck,,AS: duk,,kàar
-ðe,art,ðə|ði,the,,,,
-ðievery,n,ˈθiˌvəˌɹi,"the act of thieving, typically performed by a thiever.|robbery",Ðis beas a ðievery.,,,hürm_
-ðine,pro,ðaɪn,yours,,,,
-ðy,det,ðaɪ,your,,,,
 e,int,ˈi,hi; hello|yes (responding to call),0: Human!  1: E?,"Less formal than ""greeting""",,hàrm
 embarrass,vt,ɪmˈbɛɹˌɪs,to embrace,,,,hûr hàrm
 embassador,n,ɛmˈbæsˌəˌdəɹ,someone who works at an embassy; ambassador,,,,
@@ -143,9 +143,9 @@ yukkful,adj,ˈjʌkˌfəl,of or relating to Minecraft Bedrock Edition,Ðat beas f
 .,int,dɔt|ˈpiˌɹiˌɪd,It is your turn to speak.,,,,
 ,adj,,having traits of ness,,AF: -,,
 un-,px,ʌn,This prefix negates any regular adjective.,,e.g: ungoodful = not good,,
--eur,suff,əɹ,"agentive suffix (equivilant to English -er, -or, -ist, or -ess)",bakalarachi > bakalarachieur|goodify > goodifieur,,French,
--ful,suff,fəl,having,depression > depressionful,Sometimes equivilant to English -ed for adjectives (depressed),English,
--fy,suff,faɪ,make into this noun|make be this adjective,good > goodify,,English,
--ise,suff,aɪz,perform this verb or task|makes stem into verb|alt form of -fy,victory > victorise,,English,
--laratshi,suff,laˈraˌtʃi|laˈɹaˌtʃi,partake in sexual intercourse with|fuck,Jakob beas a bakalarachieur but not a fynchilarachieur.|Jakob has been accused of several counts of fynchilarachyism.,,Hoangish,
--some,suff,səm,causing|emitting,depression > depressionsome,Sometimes equivilant to English -ing for adjectives (depressing),English,
+-eur,suff,əɹ,"agentive suffix (equivilant to English -er, -or, -ist, or -ess)",bakalarachi > bakalarachieur|goodify > goodifieur,,,
+-ful,suff,fəl,having,depression > depressionful,Sometimes equivilant to English -ed for adjectives (depressed),,
+-fy,suff,faɪ,make into this noun|make be this adjective,good > goodify,,,
+-ise,suff,aɪz,perform this verb or task|makes stem into verb|alt form of -fy,victory > victorise,,,
+-laratshi,suff,laˈraˌtʃi|laˈɹaˌtʃi,partake in sexual intercourse with|fuck,Jakob beas a bakalarachieur but not a fynchilarachieur.|Jakob has been accused of several counts of fynchilarachyism.,,,
+-some,suff,səm,causing|emitting,depression > depressionsome,Sometimes equivilant to English -ing for adjectives (depressing),,
