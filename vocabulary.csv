@@ -1,9 +1,8 @@
 ﻿word,pos,ipa,translation,example,notes,alt_forms,v_translation
-ak,int,ˈæk,yes; yeah|okay; ok,"Ak, ak.","Antonym: ""unk""",,hûrr hàr
+ak,int,ˈæk,yes; yeah|okay; ok,"Ak, ak.","Antonym: ""unk""",akrat,hûrr hàr
 akk,int,ˈæk|ˈækə,fine (disgruntled agreement)|hello (answering phone),Akk.,,,hûrr har
 akk,vt,ˈæk|ˈækə,to acknowledge,"I akk cy konserns, however, cey bea unkrat and you bea an idot.",,,hûrr har
 akrat,adj,ˈækɹæt,correct; accurate|true|real,Affektion does not bea akrat.,"Antonym=""unkrat""",,hûrr hàr
-akrat,int,ˈækɹæt,"Alt form of ""ak""","Akrat, I kan assist.","Antonym=""unkrat""",,hûrr hàr
 akratify,vt,ækˈɹætɪfaɪ,to correct,Cy homework has beed akratised.,,,
 akratise,vt,ˈækɹætaɪz,to verify; to make sure (of),,,,
 affektion,n,aˈfɛkˌʃən,love,Affektion beas fery unkrat.,,,
@@ -125,9 +124,8 @@ tshiddle,n,ˈtʃɪˌdəl,"Slang form of ""tshidler""","Shut up, chiddle!",,chidd
 tshidler,n,ˈtʃɪdˌlər,child; mini-human,"""I'm gonna murderise ðose tshidlers!"" -Jakob, probably",,chidler|khidler,hâà
 tshidnab,vt,ˈtʃɪdˌnæb,to kidnap,,,chidnab|khidnab,hâà hür_
 un,adj,ˈʌn,not having traits of ness,Cat beas fery un.,,,
-unk,int,ˈʌnk,no,"Unk, I shall not assist.",AF: unkrat|Antonym: ak,,hurn_
+unk,int,ˈʌnk,no,"Unk, I shall not assist.",AF: unkrat|Antonym: ak,unkrat,hurn_
 unkrat,adj,ˈʌnˌkɹæt,"incorrect; inaccurate|false|fake; fictitious|fictional|Alt form of ""unk""",Affektion beas unkrat.,Antonym: akrat,,hurn_
-unkrat,int,ˈʌnˌkɹæt,"Alt form of ""unk""",,Antonym: ak,,hurn_
 ukiluki,vi,ukiˈluˌki,to have a long spasm,,,,
 unenabled,adj,ʌnenˈeɪbəld,disabled,Streamer mode now beas unenabled.,,,xàr
 ungoodful,adj,ʌnˈgʊdˌfəl,bad,,"See ""goodful""",,
