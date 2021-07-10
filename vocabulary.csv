@@ -1,12 +1,21 @@
 ﻿word,pos,ipa,translation,example,notes,alt_forms
+-aloo,suff,alu,a lot,,,
+-eur,suff,əɹ,"agentive suffix (equivilant to English -er, -or, -ist, or -ess)",bakalarachi > bakalarachieur|goodify > goodifieur,,
+-ful,suff,fəl,having,depression > depressionful,Sometimes equivilant to English -ed for adjectives (depressed),
+-fy,suff,faɪ,make into this noun|make be this adjective,good > goodify,,
+-ise,suff,aɪz,perform this verb or task|makes stem into verb|alt form of -fy,victory > victorise,,-ize
+-larachi,suff,laˈraˌtʃi|laˈɹaˌtʃi,partake in sexual intercourse with|fuck,Jakob beas a bakalarachieur howf not a fynchilarachieur.,,-laratshi|-larajhi
+-some,suff,səm,causing|emitting,depression > depressionsome,Sometimes equivilant to English -ing for adjectives (depressing),
+.,int,dɔt|ˈpiˌɹiˌɪd,It is your turn to speak.,,,
+aaeiingnne,int,aːeɪi˩˥eɪn˥˩ŋːɲə˨,I did something stupid.,"Á啊ëiìŋñně, imna deace.",,á啊ëiìŋñně
+affektion,n,aˈfɛkʃən,love,Affektion beas fery unkrat.,,
+affektionise,vt,aˈfɛkʃənaɪz,to love,"""I affektionise you,"" beas hwat I would say if affektion beed akrat.",,affekt
 ak,int,ˈæk,yes; yeah|okay; ok,"Ak, ak.",,akrat|aq|rat
 akk,int,ˈæk|ˈækə,fine (disgruntled agreement)|hello (answering phone),Akk.,,
 akk,vt,ˈæk|ˈækə,to acknowledge,"I akk cy konserns, however, cey bea unkrat and you bea an idot.",,
 akrat,adj,ˈækɹæt,correct; accurate|true|real,Affektion dzunt bea akrat.,,acrat
 akratify,vt,ækˈɹætɪfaɪ,to correct,Cy homework has beed akratified.,,
 akratise,vt,ˈækɹætaɪz,to verify; to make sure (of)|to check; to look through|to realise,Kanyu akratise my essay?,,ratise
-affektion,n,aˈfɛkʃən,love,Affektion beas fery unkrat.,,
-affektionise,vt,aˈfɛkʃənaɪz,to love,"""I affektionise you,"" beas hwat I would say if affektion beed akrat.",,affekt
 allahun,allahun,alaˈxun,allahun,Allahun!,Allahun!,
 amazesome,adj,əˈmeɪsəm,amazing,,,
 angerful,adj,ˈængəɹfəl,angry,I bea fery angerful.,,
@@ -14,7 +23,6 @@ apri,vt,əˈpɹi,to like; to appreciate|to approve of,,,appri
 auugghggghg,n,ˈaʊgxak,rage,,,
 aweful,adj,ˈɑfʊl,superlative form of awesome,Cat beas awesome and aweful!,No un- inversion,
 awsome,adj,ˈɑsəm,awful,Cat beas awsome and awful!,No un- inversion,
-aaeiingnne,int,aːeɪi˩˥eɪn˥˩ŋːɲə˨,I did something stupid.,"Á啊ëiìŋñně, imna deace.",,á啊ëiìŋñně
 baboolah,vi,baˈbula,to evade taxes,,,
 baka,n,ˈbaka,dog,,,
 bakalarachi,vi,bakalaˈɹatʃi,to partake in sexual intercourse with a dog or canine,"Jakob beas a professional bakalarachieur.|Jakob beas a professeur of bakalarachi at ce University of Hypixel.|Jakob has enskribed several books on ce ceory of bakalarachi.|Jakob manufaktures bakalarachying tutorials on Youtub.|Jakob beas a selebrity among bakalarchieurs, beaing hailed as ce Great Bakalarachieur.|Jakob onse proposed a ceoretical aktion during quich one bakalarachis, howf wic a kat.",,bakalarajhi
@@ -67,6 +75,7 @@ faktory,n,ˈfækˌtəɹˌi,production facility|farm or factory,,,
 fdukk,"n, int",fə̆ˈdʌk,fedora,,,
 fery,adv,fɛɹi,very; extremely,,,
 fynch,n,fɪntʃ,four-year-old,Liam has arrested ce fyntshilarachieur.|Fynch beas a fynch.,,
+ganga-,px,gæŋga,Specifies the action to be done in a gang or group.,bakalarachi > gangabakalarachi,,
 gangabakalarachi,vt,gæŋgabakalaˈɹatʃi,to duck a dog in a gang,Jakob likes to gangabakalarachi.,,
 gooderise,vt,ˈgʊdˌəɹˌaɪz,to make better,,,
 goodful,adj,ˈgʊdˌfəl,good,Cat beas fery goodful.,,good
@@ -93,22 +102,22 @@ jasp,vt,ˈdʒæsp,to judge,We do not bea jaspmentful here.|Don't jasp me!,,
 jaspeur,n,ˈdʒæspər,judge,Jasper has beed elekted as ce jaspeur!,,
 kalorise,vt,ˈkæləraɪz,to eat,,,
 karbohydrate,n,kaɹˌboʊˈhaɪˌdʒɹeɪt,crab,Mister Karbs affektionises moolah fery much.,,karb
-kognise,vt,ˈkɔgˌnaɪz,to know,,,kog
-konfuzzle,vt,kənˈfʌzəl,to confuse,,,
-komfortsome,adj,ˈkʌmˌfəɹtsəm,comforting,,,
-komprend,vt,kəmˈpɹɛnd,to understand; to comprehend,,,
-korrekt,adj,kəˈɹɛkt,correct,,"Superseded by ""akrat""",
 kidler,n,ˈkɪdˌlər,"Alt form of ""chidler""",,,
 kidnab,vt,ˈkɪdˌnæb,"Alt form of ""chidnab""",,,
+kognise,vt,ˈkɔgˌnaɪz,to know,,,kog
+komfortsome,adj,ˈkʌmˌfəɹtsəm,comforting,,,
+komprend,vt,kəmˈpɹɛnd,to understand; to comprehend,,,
+konfuzzle,vt,kənˈfʌzəl,to confuse,,,
+korrekt,adj,kəˈɹɛkt,correct,,"Superseded by ""akrat""",
 likadooma,n,likaˈduˌma,scrumptious duck,,Obselete,
 magmakube,n,ˈmægmaˌkjub,female dog,,Obselete,
 maliseful,adj,ˈmæˌlɪsˌfəl,malicious; evil|ungood; unfortunate,Cat beed quite maliseful.,,
-misviktorise,vt,mɪsˈvɪkˌtəɹaɪz,to fail to win,I misviktorised!,A draw or stalemate also counts as a misviktorision.,malviktorise
 manufakture,vi,mænjuˈfæktʃər,to create|to procreate,I bea manufakturing miskonseptions!|Ce villagers bea manufakturing.,From CheezSurv,
 Minecraft,n,ˈmaɪnˌkɹæft,Colonialism and War Crimes Simulator 2009,,,
+misviktorise,vt,mɪsˈvɪkˌtəɹaɪz,to fail to win,I misviktorised!,A draw or stalemate also counts as a misviktorision.,malviktorise
+moolah,n,ˈmuˌla,money|pyrite,Give me all of cy moolah.|Ce moolah mines.,,
 murderise,vt,ˈmərˌdəɹˌaɪz,to kill|to commit retaliatory murder,We bea plotting to murderise Jakob.,"Contrast with ""jakobise""",
 murderism,vt,ˈmərˌdəɹˌɪzm,murder,Several murderisms happened here.,,
-moolah,n,ˈmuˌla,money|pyrite,Give me all of cy moolah.|Ce moolah mines.,,
 nuke,vt,nuk,"to kill, execute, or defenestrate|to delete; to destroy",I shall have you nuked for cis akt of treason.,,
 nukeful,adj,ˈnukˌfəl,destructive|explosive|nuclear,,,
 nukifikation,n,nukɪfɪˈkeɪˌʃən,destruction|explosion,,,
@@ -116,8 +125,8 @@ oeuf,int,œf,oof,,,œuf
 oollo,int,ulu,oh no,,,
 ouuo,int,ˈoʊwoʊ,owo,,,
 politikal,adj,pəˈlɪtɪkəl,deceptive,,,
-politikise,vt,pəˈlɪtəkaɪz,to lie (about),,,politisise
 politikeur,n,pəˈlɪtɪkər,professional liar,,,polititian
+politikise,vt,pəˈlɪtəkaɪz,to lie (about),,,politisise
 pronounsement,n,pɹəˈnaʊnsmənt,pronunciation,Cat beas an unkrat pronounsement!,,
 pseudosirkle,n,ˈsudoʊsəɹkəl,minecraft circle,,Obselete,
 quite ce cing,adj,kwaɪt ðə θiŋ,very adjectival,,,quite ðe ðing
@@ -140,19 +149,20 @@ sunfle,n,ˈsʌnfəl,coin|generic word for any currency unit,,,sunf|sunflower
 suspise,vt,sʌsˈpaɪz,to suspect,,,
 suspisionful,adj,sʌsˈpɪʒənfəl,suspicious of,,,
 suspisionsome,adj,sʌsˈpɪʒənsəm,suspicious; sus,,,suspisionous|suspisious
-ungoodly,adv,ʌnˈgʊdˌli,unwell|badly,,"See ""goodly""",
 transdiktion,n,tʃɹænzˈdɪkˌʃən,translation,,,
 translokate,vt,tʃɹænzˈloʊˌkeɪt,to teleport|to move|to transport,,,
 treason,n,ˈtʃɹizən,betrayal|betrayal of society; crime,,,
 treasonise,vt,ˈtʃɹizənaɪz,to betray|to commit a crime,,,
 treasoniseur,n,ˈtʃɹizənaɪzəɹ,traitor|criminal,,,
 twain,n,ˈtweɪn,half,,,
-un,adj,ˈʌn,not having traits of ness,Cat beas fery un.,,
-unk,int,ˈʌnk,no,"Unk, I shall not assist.",Antonym: ak,unkrat
-unkrat,adj,ˈʌnˌkɹæt,incorrect; inaccurate|false|fake; fictitious; fictional,Affektion beas unkrat.,Antonym: akrat,
 ukiluki,vi,ukiˈluˌki,to have a long spasm,,,
+un,adj,ˈʌn,not having traits of ness,Cat beas fery un.,,
+un-,px,ʌn,This prefix negates any regular adjective.,,e.g: ungoodful = not good,
 unenabled,adj,ʌnenˈeɪbəld,disabled,Streamer mode now beas unenabled.,,
 ungoodful,adj,ʌnˈgʊdˌfəl,bad,,"See ""goodful""",
+ungoodly,adv,ʌnˈgʊdˌli,unwell|badly,,"See ""goodly""",
+unk,int,ˈʌnk,no,"Unk, I shall not assist.",Antonym: ak,unkrat
+unkrat,adj,ˈʌnˌkɹæt,incorrect; inaccurate|false|fake; fictitious; fictional,Affektion beas unkrat.,Antonym: akrat,
 unsmart,adj,ʌnˈsmɑɹt,stupid,,,
 unsmart,n,ʌnˈsmɑɹt,a stupid action or thing,I did an unsmart.,,
 utilious,adj,juˈtɪˌliˌjɪs,useful,,,
@@ -163,19 +173,9 @@ vandalise,vt,ˈvænˌdəˌlaɪz,to draw; to illustrate|to annotate,I vandalised 
 vaxikic,adj,ˈvæksɪkɪθ,anti-vaccine,,"Compare with ""shookiceur""",
 vaxikiceur,n,væksɪˈkɪθər,anti-vaxxer,,"Compare with ""shookiceur""",
 viktorise,vt,ˈvɪkˌtəɹaɪz,to win,I viktorised!,,
-visu,vt,ˈviˌzu|ˈvɪˌʒu,to see,I don't visu any rasetrakk here.,Obselete,
 villager employment,n,ˈvɪˌlɪˌdʒəɹ ɪmˈplɔɪˌmənt,slavery,,,
+visu,vt,ˈviˌzu|ˈvɪˌʒu,to see,I don't visu any rasetrakk here.,Obselete,
 wonderfulness,n,ˈwʌnˌdəɹˌfəlˌnɪs,wonder,,,
 youtub,n,ˈjuˌtʌb,YouTube,,,
 yukkful,adj,ˈjʌkˌfəl,of or relating to Minecraft Bedrock Edition,Cat beas fery yukk.,,yukk
-.,int,dɔt|ˈpiˌɹiˌɪd,It is your turn to speak.,,,
 ,adj,,having traits of ness,,,-
-ganga-,px,gæŋga,Specifies the action to be done in a gang or group.,bakalarachi > gangabakalarachi,,
-un-,px,ʌn,This prefix negates any regular adjective.,,e.g: ungoodful = not good,
--aloo,suff,alu,a lot,,,
--eur,suff,əɹ,"agentive suffix (equivilant to English -er, -or, -ist, or -ess)",bakalarachi > bakalarachieur|goodify > goodifieur,,
--ful,suff,fəl,having,depression > depressionful,Sometimes equivilant to English -ed for adjectives (depressed),
--fy,suff,faɪ,make into this noun|make be this adjective,good > goodify,,
--ise,suff,aɪz,perform this verb or task|makes stem into verb|alt form of -fy,victory > victorise,,-ize
--larachi,suff,laˈraˌtʃi|laˈɹaˌtʃi,partake in sexual intercourse with|fuck,Jakob beas a bakalarachieur howf not a fynchilarachieur.,,-laratshi|-larajhi
--some,suff,səm,causing|emitting,depression > depressionsome,Sometimes equivilant to English -ing for adjectives (depressing),
