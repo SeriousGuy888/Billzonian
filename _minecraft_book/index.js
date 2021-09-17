@@ -23,7 +23,7 @@ csv()
       const { word, pos, translation, example, notes } = entry
 
       const fnl = str => str.replace(/\|/g, "\n") // fix new lines function
-      const numberize = (str, useLetters, useAsteriskBullets) => {
+      const numberise = (str, useLetters, useAsteriskBullets) => {
         const lines = str.split("\n")
         const numberedLines = []
         for(let i in lines) {
@@ -44,9 +44,9 @@ csv()
 
 
       entryLines.push(`§0§l${word} §0§o${pos}`)
-      entryLines.push(`§0${numberize(fnl(translation))}`)
-      example && entryLines.push(`§7${numberize(fnl(example), true)}`)
-      notes   && entryLines.push(`§7§o${numberize(fnl(notes), null, true)}`)
+      entryLines.push(`§0${numberise(fnl(translation))}`)
+      // example && entryLines.push(`§7${numberise(fnl(example), true)}`)
+      // notes   && entryLines.push(`§7§o${numberise(fnl(notes), null, true)}`)
 
       dictionaryText += entryLines.join("\n")
     }

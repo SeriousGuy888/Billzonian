@@ -1,13 +1,13 @@
 
-
-
-
 §lBillzonian-English
 §lDictionary
 §0Compiled %date
 §oby Billzo
 
+Formatted for MC
+Books and Quills
 
-
-
+For full dictionary
+data, use /billzonian
+with gxrBot in Discord.
 
