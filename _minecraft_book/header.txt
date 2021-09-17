@@ -4,23 +4,10 @@
 
 §lBillzonian-English
 §lDictionary
-§0Eighth Edition
-§oby Billzo da Magic Caterpillar
+§0Compiled %date
+§oby Billzo
 
 
 
 
 
-
-§6n§8oun
-§6adj§8ective
-§6v§8erb §6i§8n§6t§8ransitive
-§6adv§8erb
-§6int§8erjection
-
-§6A§8lt §6F§8orms
-§6A§8lt §6S§8pellings
-§6I§8r§6r§8egular
-
-Un- inverts all adjs & advs
-Adj -some=ing & -ful=ed

@@ -5,6 +5,7 @@ const dictionaryHeaderFile = "./header.txt"
 const vocabFile = "../vocabulary.csv"
 
 const dictionaryHeader = fs.readFileSync(dictionaryHeaderFile, "utf-8").toString()
+  .replace(/%date/gi, new Date().toISOString().split("T")[0])
 
 if(!fs.existsSync("./output")) {
   fs.mkdirSync("./output")
