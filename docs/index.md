@@ -1,3 +1,0 @@
-# aaaaaaaaaa
-aaaaaaa
-*aaaaaaaaaaaaa*
