@@ -5,3 +5,8 @@ title: Billzonian
 description: test
 baseurl: "/Billzonian"
 url: "https://seriousguy888.github.io"
+
+collections:
+  examples:
+    permalink: "/:collection/:path/"
+    output: true
