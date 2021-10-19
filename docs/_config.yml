@@ -1,2 +1,7 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs # https://github.com/pmarsceill/just-the-docs
 color_scheme: dark
+
+title: Billzonian Language
+description: test
+baseurl: "/Billzonian"
+url: "https://seriousguy888.github.io"
