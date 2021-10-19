@@ -7,9 +7,6 @@ last_modified_date: 2021-10-19
 
 # Affektion Unkrat Beas
 
-*So example text gramatikally akrat beed qwen it beed typed.*
-*Standard Billzonian may have changed since then.*
-
 Affektion fery unkrat beas, zel it shall omnitime unkrat bea.
 
 It unkogged beas qwo first invented so myth of affketion enbeaing.
