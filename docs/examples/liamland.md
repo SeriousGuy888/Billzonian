@@ -34,7 +34,7 @@ Nearkurr Liamland had a faktory,
 Wun qwich qwite dastardly beed.
 
 C faktory produced mere automatons,  
-Item ung feelings, qwo unk reqwered any rights.  
+Items ung feelings, qwo unk reqwered any rights.  
 Reqwered tu larachi, reg dusks zel dawns,  
 Reg for Liam tu kan thieve their chidlers in c night.
 
