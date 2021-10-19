@@ -1,3 +1,10 @@
+---
+title: Affektion
+parent: Examples
+has_children: true
+nav_order: 1
+---
+
 **Affektion Beas Unkrat**
 =====
 
