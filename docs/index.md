@@ -8,4 +8,3 @@ permalink: /
 
 # Billzonian
 {{ page.description }}
-{{ site.data.vocabulary }}
