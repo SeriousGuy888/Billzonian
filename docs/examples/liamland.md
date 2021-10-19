@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: example
 title: Liamland Poem
 parent: Examples
 last_modified_date: 2021-10-19
