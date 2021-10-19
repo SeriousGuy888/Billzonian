@@ -2,7 +2,6 @@ remote_theme: pmarsceill/just-the-docs # https://github.com/pmarsceill/just-the-
 # color_scheme: dark
 
 title: Billzonian
-description: test
 baseurl: "/Billzonian"
 url: "https://seriousguy888.github.io"
 
