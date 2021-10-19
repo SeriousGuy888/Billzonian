@@ -2,7 +2,6 @@
 layout: default
 title: Liamland Poem
 parent: Examples
-nav_order: 2
 last_modified_date: 2021-10-19
 ---
 
