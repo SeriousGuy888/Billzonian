@@ -2,22 +2,22 @@
 title: Affektion
 parent: Examples
 nav_order: 2
+last_modified_date: 2021-10-19
 ---
 
-**Affektion Beas Unkrat**
-=====
+# Affektion Unkrat Beas
 
-*Ðis example text beed grammatikally akrat when it beed written.*
-*Standard Billzonian may have tshanged sinse ðis beed written.*
+*So example text gramatikally akrat beed qwen it beed typed.*
+*Standard Billzonian may have changed since then.*
 
-Affektion fery beas unkrat; it will always bea unkrat.
+Affektion fery unkrat beas, zel it shall omnitime unkrat bea.
 
-It beas unknown who first invented ðis myð of affektion existing.
-Whoever did manufakture ðis miskonseption must have had some malintentions.
+It unkogged beas qwo first invented so myth of affketion enbeaing.
+Qwo ak faktured so miskog must have had some ungood intentions.
 
-It has bekome obvious ðat despision beas what kauses ðe world to rotate.
-Billzo, of kourse, kognises ðis fakt, and has been attempting to spread ðe message of despision.
-Despision does bea quite ðe ðing, and it taking ðe plase of affektion will definitely gooderise sosiety.
-Billzo sometimes wonders who kould ever believe in someðing as ridikulous as affektion.
+It obvious beas that despisement kauses c world tu rotate.
+Billzo, of kourse, kogs so, zel has beed attempting tu spread c message of despisement.
+Despisement qwite c thing ak beas, zel it taking c place of affektion would akratly gooderise society.
+Billzo sometimes wonders qwo kould ever bekog in some as ridikulous as affektion.
 
-Grati for reading Billzo's propaganda. You have beed indoktrinated.
+Grati for reading Billzo their propaganda. You have beed indoktrinated.
