@@ -2,7 +2,7 @@
 layout: default
 title: Affektion
 parent: Examples
-nav_order: 11
+nav_order: 1
 last_modified_date: 2021-10-19
 ---
 
