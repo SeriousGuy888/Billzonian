@@ -20,7 +20,7 @@ Nearkurrly Liam loked zel viewed so:
 An island zel Liam had enhealthed their mission.  
 Desisting on c island, Liam faktured aggression.  
 Kovered with oak trees zel surrounded by water.  
-Liam instantly kogged tu have it all slaughtered.
+Liam ak kogged tu reg have so slaughtered.
 
 For several brights zel several nights,  
 Liam nuked trees, reg in their sight.
