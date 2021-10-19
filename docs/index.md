@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Billzonian
+title: Home
 nav_order: 1
-description: "Billzonian is a language i think"
+description: "Billzonian is a fork of English, a conlang that is evolved from English."
 permalink: /
 ---
 
-# aaaaaaaaaaaaaaaaaaa
-aaaaaaaa???
+# Billzonian
+{{ page.description }}
