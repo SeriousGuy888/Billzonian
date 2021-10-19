@@ -26,7 +26,7 @@ For several brights zel several nights,
 Liam nuked trees, reg in their sight.
 
 They plundered qwile c sky thundered,  
-Howf liam unk ever blundered.  
+Howf Liam unk ever blundered.  
 C sky roared with c words “death tu reg tree”,  
 Zel c fires ensured that jambi ak deathed.
 
