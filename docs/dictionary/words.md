@@ -3,7 +3,7 @@ layout: default
 title: Common Words
 nav_order: 2
 has_children: true
-permalink: /words
+permalink: /dictionary
 ---
 
 Pages with definitions and explanations of the most common Billzonian words.  
