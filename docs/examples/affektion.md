@@ -1,5 +1,5 @@
 ---
-layout: example
+layout: outdated_notice
 title: Affektion
 parent: Examples
 last_modified_date: 2021-10-19
