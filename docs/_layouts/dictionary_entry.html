@@ -9,18 +9,28 @@ layout: outdated_notice
 </style>
 
 <h2>{{ page.word }}</h2>
+{% if page.see_also %}
+  <p><em>
+    See also:
+    {% for link in page.see_also %}
+      <a href="{{ link }}">{{ link }}</a>,
+    {% endfor %}
+  </em></p>
+{% endif %}
 
-<p class="transcriptions">
-  {% for transcription in page.transcriptions %}
-    <span>/{{ transcription }}/</span>
-  {% endfor %}
-</p>
-
+<h3>Translations</h3>
 <ol>
   {% for translation in page.translations %}
     <li>{{ translation }}</li>
   {% endfor %}
 </ol>
+
+<h3>Pronunciations</h3>
+<p class="transcriptions">
+  {% for transcription in page.transcriptions %}
+    <span>/{{ transcription }}/</span>
+  {% endfor %}
+</p>
 
 <h3>Examples</h3>
 {% for example in page.examples %}
