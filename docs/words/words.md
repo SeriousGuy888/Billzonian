@@ -4,7 +4,6 @@ title: Common Words
 nav_order: 2
 has_children: true
 has_toc: false
-permalink: /words
 ---
 
 Pages with definitions and explanations of the most common Billzonian words.  
