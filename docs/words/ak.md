@@ -19,6 +19,6 @@ examples:
     eng: "Yes."
   - bzo: "I **ak** rekog so!"
     eng: "I **do** remember that!"
-  - bzo: "A nuklear baka mekh **ak** beas."
+  - bzo: "A nuklear baka mekh **ak** [beas](bea)."
     eng: "It *is*, **in fact**, a nuclear dog device."
 ---

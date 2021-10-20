@@ -15,6 +15,6 @@ translations:
   - "nothing"
   - "(archaic) not"
 examples:
-  - bzo: "They beed nuked **ung** ration."
+  - bzo: "They [beed](bea) nuked **ung** ration."
     eng: "He was executed **without** trial."
 ---
