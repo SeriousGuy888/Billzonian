@@ -7,6 +7,7 @@ last_modified_date: 2021-10-20
 word: unk
 see_also:
   - "unkrat"
+  - "ung"
   - "ak"
 transcriptions:
   - ˈʌŋk
