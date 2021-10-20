@@ -11,6 +11,7 @@ last_modified_date: 2021-10-19
 The word `bea` is equivalant to English `be`.
 
 `Bea`, unlike `be`, conjugates regularly, as seen below.
+
 | Infinitive  | tu bea    |
 |------------:|:----------|
 | 1p s.       | I bea     |
