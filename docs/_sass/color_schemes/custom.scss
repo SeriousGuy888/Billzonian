@@ -22,6 +22,6 @@ $feedback-color: darken($sidebar-color, 3%);
   color: $body-text-color;
 }
 
-a {
+a:not([class]) {
   background-image: none;
 }
