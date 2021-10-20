@@ -1,6 +1,6 @@
 ---
 layout: dictionary_entry
-title: Akrat
+title: akrat
 parent: Dictionary
 last_modified_date: 2021-10-19
 ---
