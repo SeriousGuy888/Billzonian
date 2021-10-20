@@ -21,3 +21,7 @@ $feedback-color: darken($sidebar-color, 3%);
 .search-input {
   color: $body-text-color;
 }
+
+a {
+  background-image: none;
+}
