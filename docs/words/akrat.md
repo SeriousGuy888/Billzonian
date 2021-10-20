@@ -5,6 +5,8 @@ parent: Common Words
 last_modified_date: 2021-10-19
 
 word: akrat
+see_also:
+  - "unkrat"
 transcriptions:
   - ˈækræt
 translations:
