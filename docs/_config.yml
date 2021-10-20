@@ -10,3 +10,12 @@ last_edit_time_format: "%Y-%m-%d"
 
 include:
   - "*.json"
+
+plugins:
+- jekyll-datapage-generator
+
+page_gen:
+  - data: "vocabulary"
+    template: "default"
+    name: "word"
+    dir: "vocabulary"
