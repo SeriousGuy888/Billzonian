@@ -2,7 +2,7 @@
 layout: dictionary_entry
 title: unk
 parent: Common Words
-last_modified_date: 2021-10-19
+last_modified_date: 2021-10-20
 
 word: unk
 see_also:
