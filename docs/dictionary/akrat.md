@@ -12,5 +12,5 @@ last_modified_date: 2021-10-19
 3. yes
 
 ### Examples
-> I omnitime akrat [bea](./bea.md).  
+> I omnitime akrat [bea](./bea).  
 I am always correct.
