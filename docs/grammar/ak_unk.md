@@ -6,4 +6,23 @@ last_modified_date: 2021-10-20
 ---
 
 ## Ak & Unk
-insert content here
+
+The words [ak](../words/ak) and [unk](../words/unk) are pretty cool.
+
+### Basic Usage
+Their basic usage is quite simple, really. The word `ak` means `yes` and the word `unk` means `no`.
+
+-----
+
+### As Adverbs
+In addition to their basic usages, they can also act as adverbs.
+
+\
+The word `unk` negates verbs, like English's `not` and `do not`.  
+> So kals yumsome **unk** bea.  
+  This food **does not** taste good.
+
+\
+The word `ak` intensifies verbs, like English's `in fact`, `do`/`does`, `actually`, or just emphasising the verb.  
+> Yu a treasoniseur **ak** bea.  
+  You *are*, **in fact**, a criminal.
