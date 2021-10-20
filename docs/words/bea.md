@@ -11,9 +11,9 @@ translations:
   - to be
 examples:
   - bzo: "I a treasoniseur unk **bea**."
-    eng: "*I **am** not a criminal.*"
+    eng: "I **am** not a criminal."
   - bzo: "This hyume qwo **beas**?"
-    eng: "*Who **is** this person?*"
+    eng: "Who **is** this person?"
 ---
 
 ### Conjugation

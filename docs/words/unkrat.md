@@ -16,5 +16,5 @@ translations:
   - "no"
 examples:
   - bzo: "Thy opinion **unkrat** [beas](bea)."
-    eng: "*Your opinion is **incorrect**.*"
+    eng: "Your opinion is **incorrect**."
 ---

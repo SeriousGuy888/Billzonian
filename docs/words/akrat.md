@@ -15,5 +15,5 @@ translations:
   - "yes"
 examples:
   - bzo: "I omnitime **akrat** [bea](bea)."
-    eng: "*I am always **correct**.*"
+    eng: "I am always **correct**."
 ---
