@@ -1,5 +1,5 @@
 ---
-layout: outdated_notice
+layout: dictionary_entry
 title: Bea
 parent: Dictionary
 last_modified_date: 2021-10-19
