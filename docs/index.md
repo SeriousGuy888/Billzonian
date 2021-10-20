@@ -9,7 +9,7 @@ permalink: /
 # Billzonian
 {{ page.description }}
 
-### About Billzonian
+## About Billzonian
 The goal of Billzonian is to take a language that is initially just a variant of English,
 and slowly and naturally evolve it to make it its own separate language.
 
