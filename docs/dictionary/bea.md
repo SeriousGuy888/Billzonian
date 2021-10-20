@@ -1,15 +1,20 @@
 ---
 layout: outdated_notice
 title: Bea
-parent: Grammar
+parent: Dictionary
 last_modified_date: 2021-10-19
 ---
 
-# Bea
-
-### Definition & Pronunciation
+### bea
 /ˈbi/
 1. to be
+
+### Examples
+> I a treasoniseur unk bea.  
+*I am not a criminal.*
+
+> This hyume qwo beas?  
+*Who is this person?*
 
 ### Conjugation
 `Bea`, unlike `be`, conjugates regularly, as seen below.
@@ -28,6 +33,3 @@ Both of these are correct:
 ✅ I a maliceful hyume bea.  
 ✅ I bea a maliceful hyume.  
 *I am an evil person.*
-
-### Examples
-> 
