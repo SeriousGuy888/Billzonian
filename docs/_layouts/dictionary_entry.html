@@ -2,4 +2,35 @@
 layout: outdated_notice
 ---
 
+<style>
+.transcriptions span:not(:last-child)::after {
+  content: " or ";
+}
+</style>
+
+<h2>{{ page.word }}</h2>
+
+<p class="transcriptions">
+  {% for transcription in page.transcriptions %}
+    <span>/{{ transcription }}/</span>
+  {% endfor %}
+</p>
+
+<ol>
+  {% for translation in page.translations %}
+    <li>{{ translation }}</li>
+  {% endfor %}
+</ol>
+
+<h3>Examples</h3>
+{% for example in page.examples %}
+  <blockquote>
+    <p>
+      {{ example.bzo | markdownify }}<br>
+      {{ example.eng | markdownify }}
+    </p>
+  </blockquote>
+{% endfor %}
+
+<!-- page specific content down here lol -->
 {{ content }}
