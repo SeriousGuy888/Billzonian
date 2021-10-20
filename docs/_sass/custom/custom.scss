@@ -1,14 +1,10 @@
-.search-input {
-  color: $body-text-color;
-}
+// .search-input {
+//   color: $body-text-color;
+// }
 
-a:not([class]) {
-  background-image: none;
-}
-
-.side-bar {
-  width: auto;
-}
+// .side-bar {
+//   width: auto;
+// }
 
 blockquote {
   border-left: 8px solid $border-color;
@@ -20,3 +16,12 @@ blockquote {
     display: inline;
   }
 }
+
+
+// a:not([class]) {
+//   background-image: none;
+
+//   &:hover {
+//     background-image: none;
+//   }
+// }
