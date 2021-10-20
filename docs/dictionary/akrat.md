@@ -5,7 +5,7 @@ parent: Dictionary
 last_modified_date: 2021-10-19
 ---
 
-### bea
+### akrat
 /ˈækræt/
 1. accurate; correct
 2. true
@@ -13,4 +13,4 @@ last_modified_date: 2021-10-19
 
 ### Examples
 > I omnitime akrat [bea](./bea).  
-I am always correct.
+*I am always correct.*
