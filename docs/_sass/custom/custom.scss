@@ -6,16 +6,6 @@ a:not([class]) {
   background-image: none;
 }
 
-
-.site-footer {
-  display: none;
-}
-
 .side-bar {
   width: auto;
-}
-
-.nav-list-link.active {
-  background-image: none;
-  background-color: darken($sidebar-color, 5%);
 }
