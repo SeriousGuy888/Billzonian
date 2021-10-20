@@ -10,11 +10,11 @@ last_modified_date: 2021-10-19
 1. to be
 
 ### Examples
-> I a treasoniseur unk bea.  
-*I am not a criminal.*
+> I a treasoniseur unk **bea**.  
+*I **am** not a criminal.*
 
-> This hyume qwo beas?  
-*Who is this person?*
+> This hyume qwo **beas**?  
+*Who **is** this person?*
 
 ### Conjugation
 `Bea`, unlike `be`, conjugates regularly, as seen below.
