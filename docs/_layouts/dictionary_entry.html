@@ -23,21 +23,21 @@ layout: outdated_notice
   </em></p>
 {% endif %}
 
-<h3>Translations</h3>
+{{ "### Translations" | markdownify }}
 <ol>
   {% for translation in page.translations %}
     <li>{{ translation }}</li>
   {% endfor %}
 </ol>
 
-<h3>Pronunciations</h3>
+{{ "### Pronunciations" | markdownify }}
 <p class="transcriptions">
   {% for transcription in page.transcriptions %}
     <span>/{{ transcription }}/</span>
   {% endfor %}
 </p>
 
-<h3>Examples</h3>
+{{ "### Examples" | markdownify }}
 {% for example in page.examples %}
   <blockquote>
     <p>
