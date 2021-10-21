@@ -6,15 +6,20 @@ layout: outdated_notice
 .transcriptions span:not(:last-child)::after {
   content: " or ";
 }
+.see-alsos a:not(:last-child)::after {
+  content: ", ";
+}
 </style>
 
 <h2>{{ page.word }}</h2>
 {% if page.see_also %}
   <p><em>
     See also:
-    {% for link in page.see_also %}
-      <a href="{{ link }}">{{ link }}</a>,
-    {% endfor %}
+    <span class="see-alsos">
+      {% for link in page.see_also %}
+        <a href="{{ link }}">{{ link }}</a>
+      {% endfor %}
+    </span>
   </em></p>
 {% endif %}
 
