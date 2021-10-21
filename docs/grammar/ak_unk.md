@@ -24,5 +24,5 @@ The word `unk` negates verbs, like English's `not` and `do not`.
 
 \
 The word `ak` intensifies verbs, like English's `in fact`, `do`/`does`, `actually`, or just emphasising the verb.  
-> Yu a treasoniseur **ak** bea.  
-  You *are*, **in fact**, a criminal.
+> So kals yumsome **ak** bea.  
+  This food **really does** taste good.
