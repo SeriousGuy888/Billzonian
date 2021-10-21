@@ -2,7 +2,7 @@
 layout: outdated_notice
 title: Ak & Unk
 parent: Grammar
-last_modified_date: 2021-10-20
+last_modified_date: 2021-10-21
 ---
 
 ## Ak & Unk
