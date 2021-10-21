@@ -18,6 +18,11 @@ Their basic usage is quite simple, really. The word `ak` means `yes` and the wor
 In addition to their basic usages, they can also act as adverbs.
 
 \
+Take this basic example:
+> So kals yumsome bea.  
+  This food tastes good.
+
+\
 The word `unk` negates verbs, like English's `not` and `do not`.  
 > So kals yumsome **unk** bea.  
   This food **does not** taste good.
