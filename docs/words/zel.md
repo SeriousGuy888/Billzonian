@@ -14,7 +14,7 @@ translations:
   - "with"
 examples:
   - bzo: "My booka zel my shooka owoful unk [bea](bea)."
-    eng: "My mother and my father are are not happy."
+    eng: "My mother and my father are not happy."
   - bzo: "I zel angerful bea!"
     eng: "I am also angry!"
   - bzo: "**Zel** us go."
