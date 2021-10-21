@@ -21,7 +21,7 @@ Here is the progress of doing that so far:
 | and     | zel        |
 | nor     | -          |
 | but     | howf       |
-| or      | -          |
+| or      | terv?      |
 | yet     | -          |
 | so      | therf      |
 
