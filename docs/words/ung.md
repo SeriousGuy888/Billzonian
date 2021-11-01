@@ -17,4 +17,6 @@ translations:
 examples:
   - bzo: "They [beed](bea) nuked **ung** ration."
     eng: "He was executed **without** trial."
+  - bzo: "Hir has **ung**."
+    eng: "There is **nothing** here."
 ---
