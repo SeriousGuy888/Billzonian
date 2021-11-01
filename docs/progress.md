@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Progress
+title: Plans
 nav_order: 1.5
 ---
 
