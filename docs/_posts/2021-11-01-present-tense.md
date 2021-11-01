@@ -5,8 +5,9 @@ date: 2021-11-01
 categories: plans
 ---
 
-The *present progressive tense* is represented in English using the auxiliary word `to be` and the suffix `-ing`.
-As opposed to the *simple present tense*, which does not use any auxiliary verb.
+The [present progressive tense](https://en.wikipedia.org/wiki/Simple_present) is represented in English using the auxiliary
+word `to be` and the suffix `-ing`. As opposed to the [simple present tense](https://en.wikipedia.org/wiki/Present_continuous),
+which does not use any auxiliary verb.
 > **PPT:** I am sleeping.  
   **SPT:** I sleep.
 
