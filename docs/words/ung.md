@@ -13,6 +13,7 @@ transcriptions:
 translations:
   - "without"
   - "nothing"
+  - "zero"
   - "(archaic) not"
 examples:
   - bzo: "They [beed](bea) nuked **ung** ration."
