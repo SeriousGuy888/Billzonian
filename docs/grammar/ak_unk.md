@@ -2,7 +2,7 @@
 layout: outdated_notice
 title: Ak & Unk
 parent: Grammar
-last_modified_date: 2021-10-21
+last_modified_date: 2021-11-01
 ---
 
 ## Ak & Unk
@@ -31,3 +31,9 @@ The word `unk` negates verbs, like English's `not` and `do not`.
 The word `ak` intensifies verbs, like English's `in fact`, `do`/`does`, `actually`, or just emphasising the verb.  
 > So kals yumsome **ak** bea.  
   This food **really does** taste good.
+
+
+
+### Cool Slideshow
+[A slideshow of all the Billzonian words derived from the English word "accurate"](https://docs.google.com/presentation/d/1VOyaGQhnltC_xXXKFJXBrkzrbyH2D8KnrNAhlPJub18/edit#slide=id.p)  
+*May be slightly outdated.*
