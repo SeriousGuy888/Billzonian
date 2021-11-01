@@ -2,7 +2,7 @@
 layout: dictionary_entry
 title: ung
 parent: Common Words
-last_modified_date: 2021-10-20
+last_modified_date: 2021-11-01
 
 word: ung
 see_also:
