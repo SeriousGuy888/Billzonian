@@ -22,5 +22,5 @@ defaults:
       path: ""
     values:
       layout: "default"
-      author:
-        picture: /images/logo/logo.png
+      description: "Billzonian is a pretty cool language."
+      image: "/images/logo/logo.png"
