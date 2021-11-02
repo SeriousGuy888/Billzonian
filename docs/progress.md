@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Plans
 nav_order: 1.5
 ---
