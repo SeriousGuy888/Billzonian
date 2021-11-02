@@ -5,8 +5,25 @@ nav_order: 1
 permalink: /
 ---
 
-# Billzonian
-{{ page.description }}
+<style>
+  .title-container {
+    display: flex;
+    align-items: center;
+    gap: 1.5em;
+  }
+  .title-icon { height: 5rem; }
+</style>
+
+<div class="title-container">
+  <img src="{{ "/images/logo/logo.png" | relative_url }}" alt="Billzonian Logo" class="title-icon" />
+  <div>
+    <h1>Billzonian</h1>
+    <p>{{ page.description }}</p>
+  </div>
+</div>
+
+
+
 
 ## About Billzonian
 The goal of Billzonian is to take a language that is initially just a variant of English,
