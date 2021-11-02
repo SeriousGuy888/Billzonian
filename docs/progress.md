@@ -5,9 +5,21 @@ nav_order: 1.5
 
 # Plans & Progress
 
-Currently active changes or proposals to change Billzonian.
+-----
+### Goals
+> <span class="label label-green">Reached</span>
+> Change the grammar & word order around to not be too much like English
+
+> <span class="label label-yellow">In Progress</span>
+> Coin new major vocabulary words (those being nouns and verbs) and have
+> enough to replace most English words in regular speech with newly coined Billzonian words.
+
+> <span class="label label-yellow">In Progress</span>
+> End mutual intelligibility between Billzonian and English
+> and maybe use it as a secret language idk
 
 -----
+### Posts
 
 {% for post in site.categories.plans %}
   <p>

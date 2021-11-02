@@ -17,3 +17,7 @@ blockquote {
 :target {
   animation: target-fade 1s 1;
 }
+
+.label {
+  user-select: none;
+}
