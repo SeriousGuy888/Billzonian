@@ -22,5 +22,4 @@ defaults:
       path: ""
     values:
       layout: "default"
-      description: "Billzonian is a pretty cool language."
       image: "/images/logo/logo.png"
