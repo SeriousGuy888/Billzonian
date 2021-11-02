@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conjunctions"
+title: "Structuring Questions"
 date: 2021-10-21
 categories: plans
 ---
