@@ -17,6 +17,10 @@ gh_edit_branch: "main"
 gh_edit_source: "docs"
 gh_edit_view_mode: "tree"
 
+twitter:
+  username: test
+  # small image thumbnail pls
+
 defaults:
   - scope:
       path: ""
