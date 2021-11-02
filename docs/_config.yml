@@ -19,6 +19,10 @@ gh_edit_view_mode: "tree"
 
 defaults:
   - scope:
+      path: "assets"
+    values:
+      layout: "none"
+  - scope:
       path: ""
     values:
       layout: "default"
