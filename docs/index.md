@@ -1,6 +1,6 @@
 ---
 title: Home
-description: "Billzonian is a pretty fork of English."
+description: "Billzonian is a pretty cool fork of English."
 nav_order: 1
 permalink: /
 ---
