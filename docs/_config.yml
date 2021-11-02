@@ -22,4 +22,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      image: "/images/logo/logo.png"
+      image: 
+        path: "/images/logo/logo.png"
+        width: 96
+        height: 96
