@@ -16,7 +16,7 @@ Billzonian words are coined in three main ways.
 1. Derived through compounding, combining, shortening, mutating, reanalyzing and deconstructing, or analogy with existing Billzonian words  
 >  `akrat` → `unkrat` "no; wrong"  
 >  `chambi` → `jambi` "much; many"  
->  `owosome` → `owo` "happy; glad"  
+>  `owosome` → `owo` "to be happy or glad"  
 1. Randomly; whatever sounds cool  
 >  `apugongawklu` "interrogation"  
 >  `kakamalaka` "garbage"  
