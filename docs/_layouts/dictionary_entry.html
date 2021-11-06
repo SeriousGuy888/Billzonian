@@ -37,15 +37,17 @@ layout: outdated_notice
   {% endfor %}
 </p>
 
-{{ "### Examples" | markdownify }}
-{% for example in page.examples %}
-  <blockquote>
-    <p>
-      {{ example.bzo | markdownify }}<br>
-      {{ example.eng | markdownify }}
-    </p>
-  </blockquote>
-{% endfor %}
+{% if page.examples %}
+  {{ "### Examples" | markdownify }}
+  {% for example in page.examples %}
+    <blockquote>
+      <p>
+        {{ example.bzo | markdownify }}<br>
+        {{ example.eng | markdownify }}
+      </p>
+    </blockquote>
+  {% endfor %}
+{% endif %}
 
 <!-- page specific content down here lol -->
 {{ content }}
