@@ -2,7 +2,7 @@
 layout: dictionary_entry
 title: unk
 parent: Common Words
-last_modified_date: 2021-10-20
+last_modified_date: 2021-11-06
 
 word: unk
 see_also:
@@ -20,6 +20,6 @@ etymology:
 examples:
   - bzo: "Affektion **unk** enbeas."
     eng: "Love **does not** exist."
-  - bzo: "Yu **unk** apri so duz?"
+  - bzo: "Yu **unk** apri so?"
     eng: "Do you **not** like it?"
 ---
