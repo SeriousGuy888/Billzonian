@@ -12,6 +12,8 @@ transcriptions:
 translations:
   - "hi; hello"
   - "(confirmation of attention)"
+etymology:
+  it was easy to type
 examples:
   - bzo: "E!"
     eng: "Hello!"

@@ -12,6 +12,8 @@ transcriptions:
 translations:
   - "dog fucking"
   - "to fuck a dog"
+etymology:
+  From Billzonian [baka](baka) and [-larachi](-larachi)
 examples:
   - bzo: "Bakalarachi unratified beed."
     eng: "Dog fucking was illegalised."

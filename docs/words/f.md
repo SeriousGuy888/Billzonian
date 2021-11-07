@@ -11,6 +11,8 @@ transcriptions:
   - ˈɛf
 translations:
   - "bye; goodbye"
+etymology:
+  Formed in analogy to [e](e). Influenced by `press F to pay respects`.
 examples:
   - bzo: "F."
     eng: "Bye."

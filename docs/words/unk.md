@@ -15,6 +15,8 @@ translations:
   - "no"
   - "not"
   - "do not"
+etymology:
+  Shortened from Billzonian [unkrat](unkrat), formed in analogy to [ak](ak).
 examples:
   - bzo: "Affektion **unk** enbeas."
     eng: "Love **does not** exist."

@@ -14,6 +14,8 @@ translations:
   - "yes"
   - "ok"
   - "(verb intensifier)"
+etymology:
+  Shortened from Billzonian [akrat](akrat)
 examples:
   - bzo: "Ak."
     eng: "Yes."

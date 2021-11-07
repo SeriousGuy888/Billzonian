@@ -11,4 +11,6 @@ transcriptions:
   - laˈɹatʃi
 translations:
   - "to fuck"
+etymology:
+  From Billzonian [-larachi](-larachi), being made a standalone word.
 ---

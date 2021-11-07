@@ -12,6 +12,8 @@ translations:
   - "also"
   - "as well"
   - "with"
+etymology:
+  From Billzonian `zwel`, from English `as well`.
 examples:
   - bzo: "My booka zel my shooka owoful unk [bea](bea)."
     eng: "My mother and my father are not happy."

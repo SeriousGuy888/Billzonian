@@ -13,6 +13,8 @@ translations:
   - "accurate; correct"
   - "true"
   - "yes"
+etymology:
+  From English `accurate`
 examples:
   - bzo: "I omnitime **akrat** [bea](bea)."
     eng: "I am always **correct**."

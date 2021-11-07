@@ -15,6 +15,8 @@ translations:
   - "nothing"
   - "zero"
   - "(archaic) not"
+etymology:
+  From Billzonian [unk](unk)
 examples:
   - bzo: "They [beed](bea) nuked **ung** ration."
     eng: "He was executed **without** trial."

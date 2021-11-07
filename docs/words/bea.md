@@ -9,6 +9,8 @@ transcriptions:
   - ˈbi
 translations:
   - to be
+etymology:
+  From English `be`
 examples:
   - bzo: "I a treasoniseur unk **bea**."
     eng: "I **am** not a criminal."

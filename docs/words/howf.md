@@ -11,6 +11,8 @@ transcriptions:
 translations:
   - "but"
   - "however"
+etymology:
+  From English `however`
 examples:
   - bzo: "**Howf** I tireful [bea](bea)!"
     eng: "**But** I'm tired!"
