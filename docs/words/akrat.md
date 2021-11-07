@@ -14,7 +14,7 @@ translations:
   - "true"
   - "yes"
 etymology:
-  From English `accurate`
+  From Billzonian `acrat`, from English `accurate`
 examples:
   - bzo: "I omnitime **akrat** [bea](bea)."
     eng: "I am always **correct**."

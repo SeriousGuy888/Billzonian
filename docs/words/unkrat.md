@@ -16,7 +16,7 @@ translations:
   - "fake"
   - "no"
 etymology:
-  From `un-` and Billzonian [akrat](akrat)
+  From Billzonian `uncrat`, from `un-` and Billzonian [akrat](akrat)
 examples:
   - bzo: "Thy opinion **unkrat** [beas](bea)."
     eng: "Your opinion is **incorrect**."
