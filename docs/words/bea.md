@@ -11,7 +11,7 @@ translations:
 etymology:
   From English `be`
 examples:
-  - bzo: "A treasoniseur unk **bea**."
+  - bzo: "A treasoniseur [unk](unk) **bea**."
     eng: "I **am** not a criminal."
   - bzo: "So hyume qwo **beas**?"
     eng: "Who **is** this person?"
