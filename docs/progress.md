@@ -15,6 +15,9 @@ nav_order: 1.5
 > enough to replace most English words in regular speech with newly coined Billzonian words.
 
 > <span class="label label-yellow">In Progress</span>
+> Implement vowel shifts and sound changes
+
+> <span class="label label-yellow">In Progress</span>
 > End mutual intelligibility between Billzonian and English
 > and maybe use it as a secret language idk
 
