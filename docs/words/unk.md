@@ -20,6 +20,6 @@ etymology:
 examples:
   - bzo: "Affektion **unk** enbeas."
     eng: "Love **does not** exist."
-  - bzo: "Yu **unk** apri so?"
+  - bzo: "Thuu **unk** apri so?"
     eng: "Do you **not** like it?"
 ---
