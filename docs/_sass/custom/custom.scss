@@ -9,6 +9,10 @@ blockquote {
   }
 }
 
+li p {
+  display: inline;
+}
+
 @keyframes target-fade {
   0% { background-color: rgba(255, 246, 113, 0.548); }
   100% { background-color: transparent; }

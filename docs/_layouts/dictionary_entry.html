@@ -33,7 +33,7 @@ layout: outdated_notice
 {{ "### Translations" | markdownify }}
 <ol>
   {% for translation in page.translations %}
-    <li>{{ translation }}</li>
+    <li>{{ translation | markdownify }}</li>
   {% endfor %}
 </ol>
 
