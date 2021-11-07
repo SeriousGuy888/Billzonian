@@ -4,7 +4,6 @@ title: chambiwambi
 parent: Common Words
 last_modified_date: 2021-11-06
 
-word: chambiwambi
 see_also:
   - chambi
   - wambi
@@ -15,6 +14,6 @@ translations:
 etymology:
   Coined randomly.
 examples:
-  - bzo: "My chambi apried Seasame Street kharakter **Chambiwambi** beas!"
+  - bzo: "My chambi apried Seasame Street kharakter **Chambiwambi** [beas](bea)!"
     eng: "My favourite Seasame Street character is **Big Bird**!"
 ---

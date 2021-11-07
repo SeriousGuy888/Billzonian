@@ -4,7 +4,6 @@ title: e
 parent: Common Words
 last_modified_date: 2021-10-21
 
-word: e
 see_also:
   - "f"
 transcriptions:

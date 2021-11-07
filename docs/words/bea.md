@@ -2,9 +2,8 @@
 layout: dictionary_entry
 title: bea
 parent: Common Words
-last_modified_date: 2021-10-19
+last_modified_date: 2021-11-06
 
-word: bea
 transcriptions:
   - ˈbi
 translations:
@@ -12,9 +11,9 @@ translations:
 etymology:
   From English `be`
 examples:
-  - bzo: "I a treasoniseur unk **bea**."
+  - bzo: "A treasoniseur unk **bea**."
     eng: "I **am** not a criminal."
-  - bzo: "This hyume qwo **beas**?"
+  - bzo: "So hyume qwo **beas**?"
     eng: "Who **is** this person?"
 ---
 

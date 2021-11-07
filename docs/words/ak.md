@@ -4,7 +4,6 @@ title: ak
 parent: Common Words
 last_modified_date: 2021-10-20
 
-word: ak
 see_also:
   - "akrat"
   - "unk"

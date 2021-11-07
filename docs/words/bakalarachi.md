@@ -4,7 +4,6 @@ title: bakalarachi
 parent: Common Words
 last_modified_date: 2021-11-05
 
-word: bakalarachi
 see_also:
   - -larachi
 transcriptions:

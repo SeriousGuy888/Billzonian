@@ -4,7 +4,6 @@ title: kog
 parent: Common Words
 last_modified_date: 2021-11-05
 
-word: kog
 transcriptions:
   - ˈkɔg
 translations:

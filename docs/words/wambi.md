@@ -14,6 +14,6 @@ translations:
 etymology:
   From Billzonian [chambiwambi](chambiwambi).
 examples:
-  - bzo: "Thu apri kalorise **wambi**?"
+  - bzo: "Thu [apri](apri) kalorise **wambi**?"
     eng: "Do you like to eat **chicken**?"
 ---
