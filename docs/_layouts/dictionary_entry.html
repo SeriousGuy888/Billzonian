@@ -11,6 +11,13 @@ layout: outdated_notice
 }
 </style>
 
+{{ "### Pronunciations" | markdownify }}
+<p class="transcriptions">
+  {% for transcription in page.transcriptions %}
+    <span>/{{ transcription }}/</span>
+  {% endfor %}
+</p>
+
 <h2>{{ page.word }}</h2>
 {% if page.see_also %}
   <p><em>
@@ -30,12 +37,10 @@ layout: outdated_notice
   {% endfor %}
 </ol>
 
-{{ "### Pronunciations" | markdownify }}
-<p class="transcriptions">
-  {% for transcription in page.transcriptions %}
-    <span>/{{ transcription }}/</span>
-  {% endfor %}
-</p>
+{% if page.etymology %}
+  {{ "### Etymology" | markdownify }}
+  <p>{{ page.etymology | markdownify }}</p>
+{% endif %}
 
 {% if page.examples %}
   {{ "### Examples" | markdownify }}
