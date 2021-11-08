@@ -27,6 +27,7 @@ defaults:
     values:
       nav_exclude: true
       layout: "dictionary_entry"
+      parent: Common Words
   - scope:
       path: ""
     values:
