@@ -23,6 +23,11 @@ defaults:
     values:
       layout: "none"
   - scope:
+      path: "words"
+    values:
+      nav_exclude: true
+      layout: "dictionary_entry"
+  - scope:
       path: ""
     values:
       layout: "default"
