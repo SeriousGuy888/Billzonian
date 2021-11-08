@@ -1,6 +1,6 @@
 ---
 title: 🪙 Word Coining
-nav_order: 1.75
+nav_order: 7
 ---
 
 # Coining Words for Billzonian
