@@ -2,8 +2,7 @@
 layout: default
 title: Common Words
 nav_order: 8
-has_children: true
-nav_exclude: true
+has_children: false
 ---
 
 Pages with definitions and explanations of the most common Billzonian words.  
