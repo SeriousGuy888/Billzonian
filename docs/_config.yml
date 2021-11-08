@@ -28,5 +28,5 @@ defaults:
       layout: "default"
       image: 
         path: "/images/logo/logo.png"
-        width: 96
-        height: 96
+        width: 100
+        height: 100
