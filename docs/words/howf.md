@@ -5,7 +5,6 @@ last_modified_date: 2021-10-21
 
 transcriptions:
   - ˈhaʊf
-  - ˈhʌʊf
 translations:
   - "but"
   - "however"
