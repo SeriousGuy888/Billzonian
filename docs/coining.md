@@ -20,5 +20,5 @@ Billzonian words are coined in three main ways.
 1. Randomly; whatever sounds cool  
 >  `apugongawklu` "interrogation"  
 >  `kakamalaka` "garbage"  
->  `chambi` "big"  
+>  `chambiwambi` "big chicken"  
 
