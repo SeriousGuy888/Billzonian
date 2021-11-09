@@ -45,7 +45,7 @@ const refreshExercise = () => {
       </div>
 
       <p>${currentExercise.question}</p>
-      <strong><p id="correct-answer"></p></strong>
+      <p id="correct-answer"></p>
       <!-- thu loke c akrats with inspekt element? thu a master hakkeur bea -->
     `
 
@@ -130,16 +130,16 @@ const revealAkrats = (clickedAkrat) => {
 
       const finalText = placedBlocks.join(" ").toLowerCase()
       const finalAkrats = currentExercise.akrats.map(e => e.toLowerCase().replace(/[^a-z0-9 ]/g, ""))
-
-      if(finalAkrats.includes(finalText)) {
-        akratElems.push(placedDiv)
-        akrat = true
-      } else {
+      
+      akrat = finalAkrats.includes(finalText)
+      akrat ?
+        akratElems.push(placedDiv) :
         unkratElems.push(placedDiv)
-        const condecension = document.querySelector("#correct-answer")
-        condecension.textContent = `${currentExercise.akrats[0]}`
-      }
       revealedElems.push(placedDiv)
+
+      // reveal correct answers
+      const condecension = document.querySelector("#correct-answer")
+      condecension.innerHTML = `<strong>Correct Answers:</strong> ${currentExercise.akrats.join(" <small>or</small> ")}`
       break
   }
   
