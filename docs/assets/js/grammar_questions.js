@@ -109,41 +109,48 @@ const refreshExercise = () => {
 // returns true if the answer was successfully revealed
 // returns false for multiple choice if the answer was already revealed
 const revealAkrats = (clickedAkrat) => {
-  if(currentExercise.type === "multiple_choice") {
-    const answersDiv = document.querySelector("#exercise-answers")
-    if(answersDiv.classList.contains("revealed"))
-      return false
-  
-    answersDiv.classList.add("revealed")
-    for(let i = 0; i < answersDiv.children.length; i++)
-      answersDiv.children[i].classList.add("revealed")
-    if(clickedAkrat) {
-      correctAnswers++
-    }
-  } else if(currentExercise.type === "arrange") {
-    const placedDiv = document.querySelector("#exercise-arrange-placed")
+  let akrat = false
+  let revealedElems = [] // the elements which should have the revealed class added to it
+  let unkratElems = []
+  let akratElems = []
 
-    const placedBlocks = []
-    placedDiv.childNodes.forEach(n => placedBlocks.push(n.textContent))
+  switch(currentExercise.type) {
+    case "multiple_choice":
+      const answersDiv = document.querySelector("#exercise-answers")
+      if(answersDiv.classList.contains("revealed"))
+        return false
+      revealedElems.push(answersDiv, ...answersDiv.children)
+      akrat = clickedAkrat
+      break
+    case "arrange":
+      const placedDiv = document.querySelector("#exercise-arrange-placed")
 
-    const finalText = placedBlocks.join(" ").toLowerCase()
-    const finalAkrats = currentExercise.akrats.map(e => e.toLowerCase().replace(/[^a-z0-9 ]/g, ""))
+      const placedBlocks = []
+      placedDiv.childNodes.forEach(n => placedBlocks.push(n.textContent))
 
-    placedDiv.classList.add("revealed")
+      const finalText = placedBlocks.join(" ").toLowerCase()
+      const finalAkrats = currentExercise.akrats.map(e => e.toLowerCase().replace(/[^a-z0-9 ]/g, ""))
 
-    if(finalAkrats.includes(finalText)) {
-      placedDiv.classList.add("akrat")
-      correctAnswers++
-    } else {
-      placedDiv.classList.add("unkrat")
-
-      const condecension = document.querySelector("#correct-answer")
-      condecension.textContent = `${currentExercise.akrats[0]}`
-    }
+      if(finalAkrats.includes(finalText)) {
+        akratElems.push(placedDiv)
+        akrat = true
+      } else {
+        unkratElems.push(placedDiv)
+        const condecension = document.querySelector("#correct-answer")
+        condecension.textContent = `${currentExercise.akrats[0]}`
+      }
+      revealedElems.push(placedDiv)
+      break
   }
   
   document.querySelector("#next-button").classList.remove("hidden")
   document.querySelector("#submit-button").classList.add("hidden")
+  
+  revealedElems.forEach(elem => elem.classList.add("revealed"))
+  akratElems.forEach(elem => elem.classList.add("akrat"))
+  unkratElems.forEach(elem => elem.classList.add("unkrat"))
+  if(akrat)
+    correctAnswers++
   return true
 }
 
