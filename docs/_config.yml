@@ -32,6 +32,6 @@ defaults:
     values:
       layout: "default"
       image: 
-        path: "/images/logo/logo.png"
+        path: "/assets/images/logo/logo.png"
         width: 100
         height: 100
