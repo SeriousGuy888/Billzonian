@@ -22,7 +22,7 @@ nav_order: 6
 > and maybe use it as a secret language idk
 
 -----
-### Posts
+### Pending Changes
 
 {% for post in site.categories.plans %}
   <p>
