@@ -33,6 +33,32 @@ exercises:
         akrat: true
       - content: It is a lot.
       - content: It is not a lot.
+  - type: arrange
+    question: "I really do like this."
+    blocks:
+      - I
+      - unk
+      - apri
+      - so
+      - thu
+      - qwat
+      - ak
+      - bakalarachi
+    akrats:
+      - "I ak apri so."
+  - type: arrange
+    question: "I do not like you."
+    blocks:
+      - I
+      - unk
+      - apri
+      - thu
+      - enkog
+      - ak
+      - therf
+      - dukk
+    akrats:
+      - "I unk apri thu."
 ---
 
 The words [ak](../words/ak) and [unk](../words/unk) are pretty cool.
