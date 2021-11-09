@@ -1,0 +1,107 @@
+#grammar-exercises {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 2rem;
+  min-height: 60vh;
+}
+
+#grammar-exercises * {
+  margin: 0;
+}
+
+#exercise-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+#next-button,
+#submit-button,
+#try-again-button {
+  cursor: pointer;
+  text-decoration: underline;
+  user-select: none;
+}
+.hidden { display: none; }
+
+
+.exercise-arrange-block,
+.exercise-answer {
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  height: min-content;
+}
+
+.exercise-answer,
+#exercise-arrange-placed {
+  transition: background-color 200ms;
+  border: 2px solid white;
+}
+
+.exercise-arrange-block {
+  border: 1px solid white;
+}
+
+
+.revealed.akrat {
+  border: 2px solid darkgreen !important;
+  background-color: #0f02 !important;
+}
+.revealed.unkrat {
+  border: 2px solid darkred !important;
+  background-color: #f002 !important;
+}
+
+
+
+#exercise-answers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: 0.85rem;
+}
+.exercise-answer {
+  width: 100%;
+}
+.exercise-answer:hover {
+  background-color: #fff2;
+}
+.exercise-answer.chosen::before {
+  content: "✔";
+}
+#exercise-answers.revealed .exercise-answer {
+  cursor: not-allowed;
+}
+
+#exercise-arrange-placed {
+  padding: 0.5rem;
+  border-radius: 10px;
+  min-height: 20vh;
+  margin: 0.5rem 0;
+}
+#exercise-arrange-placed:empty::before {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  content: "Click the words below and arrange them in the correct order.";
+  color: #fff7;
+  font-style: italic;
+}
+#exercise-arrange-placed.revealed > * { cursor: not-allowed; }
+
+#exercise-arrange-placed,
+#exercise-arrange-options {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 1rem;
+  row-gap: 0.5rem;
+}
+.exercise-arrange-block {
+  width: fit-content;
+  user-select: none;
+}
