@@ -15,7 +15,7 @@ permalink: /
 </style>
 
 <div class="title-container">
-  <img src="{{ "/images/logo/logo.png" | relative_url }}" alt="Billzonian Logo" class="title-icon" />
+  <img src="{{ "/assets/images/logo/logo.png" | relative_url }}" alt="Billzonian Logo" class="title-icon" />
   <div>
     <h1>Billzonian</h1>
     <p>{{ page.description }}</p>
