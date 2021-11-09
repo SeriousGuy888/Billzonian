@@ -44,7 +44,7 @@ const refreshExercise = () => {
         </p>
       </div>
 
-      <p>${currentExercise.question}</p>
+      <p id="exercise-question">${currentExercise.question}</p>
       <p id="correct-answer"></p>
       <!-- thu loke c akrats with inspekt element? thu a master hakkeur bea -->
     `

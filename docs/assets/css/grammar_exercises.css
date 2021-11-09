@@ -32,6 +32,13 @@
 .hidden { display: none; }
 
 
+#exercise-question {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  font-size: 1.25rem;
+}
+
+
 .exercise-arrange-block,
 .exercise-answer {
   cursor: pointer;
