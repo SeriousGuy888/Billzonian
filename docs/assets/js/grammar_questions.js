@@ -42,7 +42,7 @@ const refreshExercise = () => {
           ${exerciseNum + 1 === exerciseMaterial.length ? 'Final Score' : 'Next Question'}
         </p>
         <p id="submit-button" onclick="revealAkrats()">
-          Submit
+          ${currentExercise.type === 'multiple_choice' ? 'Skip' : 'Submit'}
         </p>
       </div>
 
