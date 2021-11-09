@@ -34,7 +34,7 @@ const refreshExercise = () => {
     const currentExercise = exerciseMaterial[exerciseNum]
     
     let answersHtml = ""
-    for(let answer of currentExercise.answers) {
+    for(let answer of currentExercise.answers.sort(() => Math.random() - 0.5)) { // loop through shuffled array of answers
       answersHtml += `
         <p class="exercise-answer ${answer.akrat ? 'akrat' : 'unkrat'}" onclick="if(revealAkrats(${!!answer.akrat})) this.classList.add('chosen')">
           ${answer.content}
