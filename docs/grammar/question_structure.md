@@ -23,7 +23,7 @@ exercises:
         akrat: true
       - content: Thu akted qwen prevsun?
   - type: multiple_choice
-    question: Are you ok?
+    question: Are you alright?
     answers:
       - content: Thu owo?
         akrat: true
