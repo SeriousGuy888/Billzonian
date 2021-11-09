@@ -7,13 +7,17 @@ layout: outdated_notice
 {{ content }}
 
 {% if page.exercises %}
+  <hr>
   {{ "## Exercises" | markdownify }}
-  <a
-    href="https://github.com/SeriousGuy888/Billzonian/issues/new?assignees=&labels=documentation&template=exercise-question-problem.md&title="
-    target="_blank"
-  >
-    <small>Report an issue with these exercises.</small>
-  </a>
+  <p><small>
+    You can check if you understand this page by doing these questions. 
+    <a
+      href="https://github.com/SeriousGuy888/Billzonian/issues/new?assignees=&labels=documentation&template=exercise-question-problem.md&title="
+      target="blank"
+    >
+      Report an issue with these exercises.
+    </a>
+  </small></p>
 
   <div id="grammar-exercises"></div>
 
