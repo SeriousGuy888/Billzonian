@@ -51,7 +51,7 @@ const refreshExercise = () => {
       </div>
       <strong><p>${currentExercise.question}</p></strong>
       
-      <!-- loking c akrats with inspekt element? thu a master hakkeur bea -->
+      <!-- thu loke c akrats with inspekt element? thu a master hakkeur bea -->
       <div id="exercise-answers">
         ${answersHtml}
       </div>
