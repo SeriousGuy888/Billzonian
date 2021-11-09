@@ -1,7 +1,5 @@
 const parentDiv = document.querySelector("#grammar-exercises")
 
-console.log("this page supports grammar questions")
-
 let exerciseMaterial,
     exerciseNum,
     correctAnswers,
