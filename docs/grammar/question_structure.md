@@ -50,6 +50,47 @@ exercises:
       - content: Haven't you seen this?
       - content: Have you seen this?
         akrat: true
+  - type: arrange
+    question: "Did you eat?"
+    blocks:
+      - Thu
+      - kalorised
+      - duz
+      - jakobised
+      - I
+      - baka
+      - bevrik
+    akrats:
+      - "Thu kalorised?"
+      - "Thu kalorised duz?"
+  - type: arrange
+    question: "How old are you?"
+    blocks:
+      - Thu
+      - how
+      - bevrik
+      - bea
+      - duz
+      - qwen
+      - beed
+      - owo
+    akrats:
+      - "Thu how bevrik bea?"
+      - "Thu bea how bevrik?"
+  - type: arrange
+    question: "Hir has qwat?"
+    blocks:
+      - What
+      - is
+      - there
+      - here
+      - exists
+      - When
+      - dog fucking
+      - have
+    akrats:
+      - "What is there here?"
+      - "What is here?"
 ---
 
 ## How it Works in English
