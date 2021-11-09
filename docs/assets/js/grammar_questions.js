@@ -36,7 +36,7 @@ const refreshExercise = () => {
     let answersHtml = ""
     for(let answer of currentExercise.answers) {
       answersHtml += `
-        <p class="exercise-answer ${answer.akrat ? 'akrat' : 'unkrat'}" onclick="revealAkrats(${!!answer.akrat}); this.classList.add('chosen');">
+        <p class="exercise-answer ${answer.akrat ? 'akrat' : 'unkrat'}" onclick="if(revealAkrats(${!!answer.akrat})) this.classList.add('chosen')">
           ${answer.content}
         </p>
       `
@@ -59,12 +59,20 @@ const refreshExercise = () => {
   }
 }
 
+// returns true if the answer was successfully revealed
+// returns false if the answer was already revealed
 const revealAkrats = (clickedAkrat) => {
-  document.querySelector("#exercise-answers").classList.add("revealed")
+  const answersDiv = document.querySelector("#exercise-answers")
+  if(answersDiv.classList.contains("revealed"))
+    return false
+
+  answersDiv.classList.add("revealed")
   document.querySelector("#next-button").classList.remove("hidden")
   if(clickedAkrat) {
     correctAnswers++
   }
+
+  return true
 }
 
 const nextButton = () => {
