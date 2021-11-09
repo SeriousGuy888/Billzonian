@@ -4,6 +4,12 @@
   gap: 0.75rem;
   margin-top: 2rem;
   min-height: 60vh;
+
+  --exercise-border: #f5f6fa;
+  --akrat-border: #006400;
+  --akrat-bg: #0f02;
+  --unkrat-border: #8b0000;
+  --unkrat-bg: #f002;
 }
 
 #grammar-exercises * {
@@ -33,25 +39,26 @@
   padding: 0.75rem 1rem;
   height: min-content;
 }
+.exercise-arrange-block:hover,
+.exercise-answer:hover {
+  background-color: #fff2;
+}
 
+.exercise-arrange-block,
 .exercise-answer,
 #exercise-arrange-placed {
   transition: background-color 200ms;
-  border: 2px solid white;
-}
-
-.exercise-arrange-block {
-  border: 1px solid white;
+  border: 1px solid var(--exercise-border);
 }
 
 
 .revealed.akrat {
-  border: 2px solid darkgreen !important;
-  background-color: #0f02 !important;
+  border: 1px solid var(--akrat-border) !important;
+  background-color: var(--akrat-bg) !important;
 }
 .revealed.unkrat {
-  border: 2px solid darkred !important;
-  background-color: #f002 !important;
+  border: 1px solid var(--unkrat-border) !important;
+  background-color: var(--unkrat-bg) !important;
 }
 
 
@@ -65,9 +72,6 @@
 }
 .exercise-answer {
   width: 100%;
-}
-.exercise-answer:hover {
-  background-color: #fff2;
 }
 .exercise-answer.chosen::before {
   content: "✔";
