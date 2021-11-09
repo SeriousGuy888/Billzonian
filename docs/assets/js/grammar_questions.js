@@ -36,7 +36,7 @@ const refreshExercise = () => {
     let answersHtml = ""
     for(let answer of currentExercise.answers) {
       answersHtml += `
-        <p class="exercise-answer ${answer.akrat ? 'akrat' : 'unkrat'}" onclick="revealAkrats(${answer.akrat}); this.classList.add('chosen');">
+        <p class="exercise-answer ${answer.akrat ? 'akrat' : 'unkrat'}" onclick="revealAkrats(${!!answer.akrat}); this.classList.add('chosen');">
           ${answer.content}
         </p>
       `
