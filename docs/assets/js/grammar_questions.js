@@ -129,8 +129,11 @@ const revealAkrats = (clickedAkrat) => {
     placedDiv.childNodes.forEach(n => placedBlocks.push(n.textContent))
 
     const finalText = placedBlocks.join(" ").toLowerCase()
+    const finalAkrats = currentExercise.akrats.map(e => e.toLowerCase().replace(/[^a-z0-9 ]/g, ""))
+
     placedDiv.classList.add("revealed")
-    if(currentExercise.akrats.map(e => e.toLowerCase()).includes(finalText)) {
+
+    if(finalAkrats.includes(finalText)) {
       placedDiv.classList.add("akrat")
       correctAnswers++
     } else {
@@ -152,7 +155,7 @@ const nextButton = () => {
   } else {
     exerciseNum++
   }
-  
+
   refreshExercise()
 }
 
