@@ -5,3 +5,70 @@ layout: outdated_notice
 <h1>{{ page.title }}</h1>
 
 {{ content }}
+
+{% if page.exercises %}
+  {{ "## Exercises" | markdownify }}
+  <div id="grammar-exercises"></div>
+  <script src="{{ site.baseurl }}/assets/js/grammar_questions.js"></script>
+  <script>
+    initExercises(JSON.parse(`{{ page.exercises | jsonify }}`));
+  </script>
+
+  <style>
+    #grammar-exercises {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      margin-top: 2rem;
+      min-height: 50vh;
+    }
+
+    #grammar-exercises * {
+      margin: 0;
+    }
+
+    #exercise-header {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+    #exercise-header #next-button,
+    #try-again-button {
+      cursor: pointer;
+      text-decoration: underline;
+    }
+    #exercise-header #next-button.hidden {
+      visibility: hidden;
+    }
+
+
+    #exercise-answers {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+    .exercise-answer {
+      cursor: pointer;
+      border: 1px solid white;
+      border-radius: 10px;
+      padding: 0.75rem 1rem;
+      /* width: fit-content; */
+      width: 100%;
+      transition: background-color 200ms;
+    }
+    .exercise-answer:hover {
+      background-color: #fff2;
+    }
+    .exercise-answer.chosen::before {
+      content: "✔";
+    }
+    #exercise-answers.revealed .exercise-answer.akrat {
+      background-color: darkgreen;
+    }
+    #exercise-answers.revealed .exercise-answer.unkrat {
+      background-color: darkred;
+    }
+  </style>
+{% endif %}
