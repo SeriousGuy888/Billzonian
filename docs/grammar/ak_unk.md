@@ -1,11 +1,9 @@
 ---
-layout: outdated_notice
+layout: grammar_explanation
 title: Ak & Unk
 parent: Grammar
 last_modified_date: 2021-11-01
 ---
-
-## Ak & Unk
 
 The words [ak](../words/ak) and [unk](../words/unk) are pretty cool.
 
