@@ -1,8 +1,14 @@
 ---
 title: kog
 parent: Common Words
-last_modified_date: 2021-11-05
+last_modified_date: 2021-11-10
 
+see_also:
+  - bekog
+  - rekog
+  - enkog
+  - unkog
+  - skog
 transcriptions:
   - ˈkɔg
 translations:
