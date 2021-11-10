@@ -1,8 +1,82 @@
 ---
-layout: post
+layout: grammar_explanation
 title: "Present Tense"
 parent: Grammar
 last_modified_date: 2021-11-09
+
+exercises:
+  - type: multiple_choice
+    question: I am leaving.
+    answers:
+      - content: I exit.
+        akrat: true
+      - content: I bea exiting.
+      - content: I kurrly exit.
+        akrat: true
+      - content: I bea exit.
+  - type: multiple_choice
+    question: Thu deathe.
+    answers:
+      - content: You are dying.
+        akrat: true
+      - content: You die.
+        akrat: true
+      - content: You died.
+  - type: multiple_choice
+    question: Jakob was fucking a dog.
+    answers:
+      - content: Jakob prekurrly bakalarachis.
+        akrat: true
+      - content: Jakob bakalarachied.
+      - content: Jakob bakalarachis.
+  - type: arrange
+    question: "Jakob kurrly nabs thy baka!"
+    blocks:
+      - Jakob
+      - kidnaps
+      - kidnapping
+      - your
+      - dog
+      - is
+      - currently
+      - has
+      - kidnapped
+    akrats:
+      - "Jakob is kidnapping your dog!"
+      - "Jakob is currently kidnapping your dog!"
+  - type: arrange
+    question: "Your dog is running away from Jakob."
+    blocks:
+      - Thy
+      - baka
+      - kurrly
+      - evades
+      - Jakob
+      - evaded
+      - evading
+      - beas
+    akrats:
+      - "Thy baka evades Jakob."
+      - "Thy baka kurrly evades Jakob."
+  - type: arrange
+    question: "Jakob was hoping to fuck a dog today."
+    blocks:
+      - Jakob
+      - aspired
+      - tu
+      - bakalarachi
+      - kurrsun
+      - bakalarachying
+      - bea
+      - beed
+      - aspires
+      - prekurrly
+      - a
+      - baka
+      - larachi
+    akrats:
+      - "Jakob prekurrly aspires tu bakalarachi kurrsun."
+      - "Jakob prekurrly aspires tu a baka larachi kurrsun."
 ---
 
 ## English System
