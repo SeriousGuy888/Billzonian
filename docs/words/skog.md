@@ -11,7 +11,7 @@ translations:
   - "to think (about); to consider"
   - "to ponder"
 etymology:
-  "From Chinese [思考](https://en.wiktionary.org/wiki/思考) and [思想](https://en.wiktionary.org/wiki/思想), influenced by Billzonian [kog](kog)"
+  "From Chinese [思想](https://en.wiktionary.org/wiki/思想) and [思考](https://en.wiktionary.org/wiki/思考), influenced by Billzonian [kog](kog)"
 examples:
   - bzo: "Thu howly **skog** of so?"
     eng: "What do you **think** of this?"
