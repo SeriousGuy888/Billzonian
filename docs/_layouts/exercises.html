@@ -43,7 +43,7 @@ layout: default
         <p class="fake-link" @click="chooseTopic(null)">&lt; Back</p>
         <h4>{{ topics[chosenTopic]?.title }}</h4>
         <h4>Question {{ questionNumber + 1 }} of {{ chosenTopicData?.length }}</h4>
-        <h4>Correct Answered: {{ answerHistory.correct }}/{{ answerHistory.total }}</h4>
+        <h4>Correct Answers: {{ answerHistory.correct }}/{{ answerHistory.total }}</h4>
       </aside>
 
       <article v-if="chosenTopicData?.[questionNumber]">
