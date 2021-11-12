@@ -42,7 +42,7 @@ layout: default
       <aside id="exercise-info">
         <p class="fake-link" @click="chooseTopic(null)">&lt; Back</p>
         <h4>{{ topics[chosenTopic]?.title }}</h4>
-        <h4>Question {{ questionNumber }} of {{ chosenTopicData?.length }}</h4>
+        <h4>Question {{ questionNumber + 1 }} of {{ chosenTopicData?.length }}</h4>
         <h4>Correct Answered: {{ answerHistory.correct }}/{{ answerHistory.total }}</h4>
       </aside>
 
@@ -96,14 +96,18 @@ layout: default
             </span>
           </p>
         </div>
-      </article>
 
-      <p
-        class="fake-link"
-        @click="revealAnswers()"
-      >
-        {{ answersRevealed ? 'Next Question' : 'Submit' }}
-      </p>
+        <p
+          class="fake-link"
+          @click="revealAnswers()"
+        >
+          {{ answersRevealed ? 'Next Question' : 'Submit' }}
+        </p>
+      </article>
+      <article v-else>
+        <h2>Done!</h2>
+        <p>Your score is {{ Math.round(answerHistory.correct / answerHistory.total * 10000) / 100 }}% 🎉</p>
+      </article>
     </section>
 
   </template>
