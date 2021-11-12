@@ -17,12 +17,15 @@ function MainPanel() {
     topics: {
       present_tense: {
         title: "Present Tense",
+        icon: "present_tense.svg",
       },
       ak_unk: {
         title: "Ak & Unk",
+        icon: "ak_unk.svg",
       },
       question_structure: {
         title: "Questions",
+        icon: "question_structure.svg",
       },
     },
     mounted() {
