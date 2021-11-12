@@ -21,8 +21,8 @@ function MainPanel() {
       ak_unk: {
         title: "Ak & Unk",
       },
-      grammar2: {
-        title: "Grammar",
+      question_structure: {
+        title: "Questions",
       },
     },
     mounted() {
