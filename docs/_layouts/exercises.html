@@ -5,21 +5,75 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 
-<script type="module" src="{{ site.baseurl }}/assets/js/components.js"></script>
+<script type="module" src="{{ site.baseurl }}/assets/exercises/components.js"></script>
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/exercises/topics.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/exercises/exercises.css">
 
-<template id="vue-template">
-  My count is ${count}
-  <button @click="inc">++</button>
-</template>
+<hr>
 
-<div v-scope="Counter({ initialCount: 1 })"></div>
-<div v-scope="Counter({ initialCount: 2 })"></div>
+{% raw %}
 
+<div v-scope="MainPanel()">
+  <template id="main-panel-template">
 
-<!-- <div id="exercises"></div> -->
+    <section v-if="!chosenTopic">
+      <h4>Choose Topic</h4>
+      <div id="topics-container">
+        <article
+          class="topic"
+          v-for="(topic, topicId) in topics"
+          @click="chooseTopic(topicId)"
+        >
+          <p class="topic-title">{{ topic.title }}</p>
+          <img
+            class="topic-icon"
+            :src="`./assets/images/exercise_icons/${topic.icon}`"
+            alt="topic icon"
+            onerror="
+              let fallbackIcon = './assets/images/logo/logo.png';
+              if(this.src !== fallbackIcon) this.src = fallbackIcon;
+            "
+          >
+        </article>
+      </div>
+    </section>
 
-<!-- 
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/grammar_exercises.css">
-<script src="{{ site.baseurl }}/assets/js/grammar_questions.js"></script>
-<script>initExercises(JSON.parse(`{{ page.exercises | jsonify }}`));</script>
--->
+    <section v-else>
+      <aside id="exercise-info">
+        <p class="fake-link" @click="chooseTopic(null)">&lt; Back</p>
+        <h4>{{ topics[chosenTopic].title }}</h4>
+        <h4>Question #{{ questionNumber }}</h4>
+        <h4>Correct Answered: {{ answerHistory.correct }}/{{ answerHistory.total }}</h4>
+      </aside>
+
+      <article v-if="chosenTopicData?.[questionNumber]">
+        <h2>{{ chosenTopicData[questionNumber].question }}</h2>
+        <div v-if="chosenTopicData[questionNumber].type === 'multiple_choice'">
+          <p
+            class="multiple-choice-answer"
+            :class="{
+              akrat: answersRevealed && answer.akrat,
+              unkrat: answersRevealed && !answer.akrat,
+              chosen: selectedAnswer === i
+            }"
+            @click="if(!answersRevealed) selectedAnswer = i"
+            v-for="(answer, i) in chosenTopicData[questionNumber].answers"
+            :key="i"
+          >
+            {{ answer.content }}
+          </p>
+        </div>
+      </article>
+
+      <p
+        class="fake-link"
+        @click="revealAnswers()"
+      >
+        Submit
+      </p>
+    </section>
+
+  </template>
+</div>
+
+{% endraw %}
