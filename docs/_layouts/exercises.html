@@ -41,14 +41,14 @@ layout: default
     <section v-else>
       <aside id="exercise-info">
         <p class="fake-link" @click="chooseTopic(null)">&lt; Back</p>
-        <h4>{{ topics[chosenTopic].title }}</h4>
+        <h4>{{ topics[chosenTopic]?.title }}</h4>
         <h4>Question #{{ questionNumber }}</h4>
         <h4>Correct Answered: {{ answerHistory.correct }}/{{ answerHistory.total }}</h4>
       </aside>
 
       <article v-if="chosenTopicData?.[questionNumber]">
-        <h2>{{ chosenTopicData[questionNumber].question }}</h2>
-        <div v-if="chosenTopicData[questionNumber].type === 'multiple_choice'">
+        <h2>{{ chosenTopicData?.[questionNumber].question }}</h2>
+        <div v-if="chosenTopicData?.[questionNumber].type === 'multiple_choice'">
           <p
             class="multiple-choice-answer"
             :class="{
@@ -57,13 +57,13 @@ layout: default
               chosen: selectedAnswer === i
             }"
             @click="if(!answersRevealed) selectedAnswer = i"
-            v-for="(answer, i) in chosenTopicData[questionNumber].answers"
+            v-for="(answer, i) in chosenTopicData?.[questionNumber].answers"
             :key="i"
           >
             {{ answer.content }}
           </p>
         </div>
-        <div v-if="chosenTopicData[questionNumber].type === 'arrange'">
+        <div v-if="chosenTopicData?.[questionNumber].type === 'arrange'">
           <div
             id="arrange-placed"
             :class="{
