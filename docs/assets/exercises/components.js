@@ -18,8 +18,8 @@ function MainPanel() {
       present_tense: {
         title: "Present Tense",
       },
-      grammar: {
-        title: "Grammar",
+      ak_unk: {
+        title: "Ak & Unk",
       },
       grammar2: {
         title: "Grammar",
