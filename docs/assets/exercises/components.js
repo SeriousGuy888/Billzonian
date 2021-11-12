@@ -24,6 +24,12 @@ function MainPanel() {
       },
     },
     async chooseTopic(id) {
+      this.questionNumber = 0
+      this.answerHistory.correct = 0
+      this.answerHistory.total = 0
+      this.answersRevealed = false
+      this.selectedAnswer = null
+
       if(!id) {
         this.chosenTopic = null
         this.chosenTopicData = null
@@ -36,9 +42,6 @@ function MainPanel() {
       
       this.chosenTopic = id
       this.chosenTopicData = await res.json()
-      this.questionNum = 0
-      this.answerHistory.correct = 0
-      this.answerHistory.total = 0
     },
     revealAnswers() {
       if(!this.answersRevealed) {
