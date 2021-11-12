@@ -42,7 +42,7 @@ layout: default
       <aside id="exercise-info">
         <p class="fake-link" @click="chooseTopic(null)">&lt; Back</p>
         <h4>{{ topics[chosenTopic]?.title }}</h4>
-        <h4>Question #{{ questionNumber }}</h4>
+        <h4>Question {{ questionNumber }} of {{ chosenTopicData?.length }}</h4>
         <h4>Correct Answered: {{ answerHistory.correct }}/{{ answerHistory.total }}</h4>
       </aside>
 
