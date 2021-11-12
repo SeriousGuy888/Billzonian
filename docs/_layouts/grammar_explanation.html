@@ -25,3 +25,11 @@ layout: outdated_notice
   <script src="{{ site.baseurl }}/assets/js/grammar_questions.js"></script>
   <script>initExercises(JSON.parse(`{{ page.exercises | jsonify }}`));</script>
 {% endif %}
+
+{% if page.exercises_id %}
+  {{ "## Exercises" | markdownify }}
+  <p>
+    Exercises for this page can be found
+    <a href="{{ site.baseurl }}/exercises?topic={{ page.exercises_id }}">here</a>.
+  </p>
+{% endif %}
