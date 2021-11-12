@@ -25,6 +25,22 @@ function MainPanel() {
         title: "Grammar",
       },
     },
+    mounted() {
+      const parseQuery = queryString => {
+        const query = {}
+        const pairs = queryString.replace(/^\?/, "").split("&")
+        for(let i = 0; i < pairs.length; i++) {
+          var pair = pairs[i].split("=")
+          query[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1] || "")
+        }
+        return query
+      }
+
+      let topic = parseQuery(window.location.search).topic
+      if(topic) {
+        this.chooseTopic(topic)
+      }
+    },
     async chooseTopic(id) {
       this.questionNumber = 0
       this.answerHistory.currentCorrect = false

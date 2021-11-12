@@ -13,7 +13,7 @@ layout: default
 
 {% raw %}
 
-<div v-scope="MainPanel()">
+<div v-scope="MainPanel()" @mounted="mounted">
   <template id="main-panel-template">
 
     <section v-if="!chosenTopic">
