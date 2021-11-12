@@ -26,18 +26,66 @@
   background-color: #f002 !important;
 }
 
-.multiple-choice-answer {
-  cursor: pointer;
+
+.multiple-choice-answer,
+.arrange-block,
+#arrange-placed {
   border-radius: 10px;
+  border: 1px solid #ccc;
+  transition: background-color 0.1s ease-in-out;
+}
+
+
+.multiple-choice-answer,
+.arrange-block {
+  cursor: pointer;
   padding: 0.75rem 1rem;
   height: min-content;
-  border: 1px solid #ccc;
-  transition: all 0.1s ease-in-out;
 }
+
+
+
 .multiple-choice-answer:hover {
   background-color: #fff2;
 }
 .multiple-choice-answer.chosen::after {
   content: "✔";
   float: right;
+}
+
+
+
+
+#arrange-placed,
+#arrange-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-content: flex-start;
+}
+
+#arrange-placed {
+  padding: 0.5rem;
+  min-height: 20vh;
+  margin: 1rem 0;
+}
+
+/* * selector doesnt work for some reason */
+/* #arrange-placed:empty::before {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  content: "Click the words below and arrange them in the correct order.";
+  color: #ccc;
+  font-style: italic;
+} */
+
+.arrange-block {
+  width: fit-content;
+  user-select: none;
+  margin: 0;
+}
+.arrange-block.used {
+  visibility: hidden;
 }

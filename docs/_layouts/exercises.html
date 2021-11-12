@@ -63,13 +63,46 @@ layout: default
             {{ answer.content }}
           </p>
         </div>
+        <div v-if="chosenTopicData[questionNumber].type === 'arrange'">
+          <div
+            id="arrange-placed"
+            :class="{
+              akrat: answersRevealed && answerHistory.currentCorrect,
+              unkrat: answersRevealed && !answerHistory.currentCorrect
+            }"
+          >
+            <p
+              class="arrange-block"
+              @click="updateArrangement(i, true)"
+              v-for="(originalIndex, i) in selectedArrangement"
+            >
+              {{ chosenTopicData[questionNumber]?.blocks?.[originalIndex] }}
+            </p> 
+          </div>
+          <div id="arrange-options">
+            <p
+              class="arrange-block"
+              :class="{ used: selectedArrangement.includes(i) }"
+              @click="updateArrangement(i, false)"
+              v-for="(block, i) in chosenTopicData[questionNumber].blocks"
+            >
+              {{ block }}
+            </p>
+          </div>
+          <p v-if="answersRevealed">
+            <strong>Correct Answers:</strong><br>
+            <span v-for="akrat in chosenTopicData[questionNumber].akrats">
+              <code>{{ akrat }}</code><br>
+            </span>
+          </p>
+        </div>
       </article>
 
       <p
         class="fake-link"
         @click="revealAnswers()"
       >
-        Submit
+        {{ answersRevealed ? 'Next Question' : 'Submit' }}
       </p>
     </section>
 
