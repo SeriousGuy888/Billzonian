@@ -1,12 +1,12 @@
 ---
-title: nov
+title: qwere
 parent: Words
 last_modified_date: 2021-11-18
 
 transcriptions:
-  - ˈnɔv
+  - ˈkwɛəɹ
 translations:
-  - "new"
+  - "where"
 etymology:
-  From English `novel`
+  From English `where`
 ---

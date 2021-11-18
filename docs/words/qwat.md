@@ -1,12 +1,12 @@
 ---
-title: nov
+title: qwat
 parent: Words
 last_modified_date: 2021-11-18
 
 transcriptions:
-  - ˈnɔv
+  - ˈkwʌt
 translations:
-  - "new"
+  - "what"
 etymology:
-  From English `novel`
+  From English `what`
 ---

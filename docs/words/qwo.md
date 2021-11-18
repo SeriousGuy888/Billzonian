@@ -1,12 +1,12 @@
 ---
-title: nov
+title: qwo
 parent: Words
 last_modified_date: 2021-11-18
 
 transcriptions:
-  - ˈnɔv
+  - ˈkwoʊ
 translations:
-  - "new"
+  - "who"
 etymology:
-  From English `novel`
+  From English `who`
 ---
