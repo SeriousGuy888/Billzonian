@@ -1,7 +1,7 @@
 ---
 title: kog
 parent: Words
-last_modified_date: 2021-11-10
+last_modified_date: 2021-11-18
 
 see_also:
   - bekog
@@ -9,6 +9,7 @@ see_also:
   - enkog
   - unkog
   - skog
+  - iung
 transcriptions:
   - ˈkɔg
 translations:
