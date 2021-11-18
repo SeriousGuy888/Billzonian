@@ -1,10 +1,13 @@
 ---
 title: akrat
 parent: Words
-last_modified_date: 2021-10-19
+last_modified_date: 2021-11-18
 
 see_also:
   - "unkrat"
+alts:
+  - "arkat"
+  - "akqwakk"
 transcriptions:
   - ˈækræt
 translations:

@@ -13,14 +13,25 @@ layout: outdated_notice
 
 <h2>{{ page.title }}</h2>
 {% if page.see_also %}
-  <p><em>
+  <span><em>
     See also:
     <span class="see-alsos">
       {% for link in page.see_also %}
         <a href="{{ link }}">{{ link }}</a>
       {% endfor %}
     </span>
-  </em></p>
+  </em></span>
+  <br>
+{% endif %}
+{% if page.alts %}
+  <span><em>
+    Alternate forms:
+    <span class="see-alsos">
+      {% for link in page.alts %}
+        <a href="{{ link }}">{{ link }}</a>
+      {% endfor %}
+    </span>
+  </em></span>
 {% endif %}
 
 {{ "### Pronunciations" | markdownify }}
