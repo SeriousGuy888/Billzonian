@@ -12,6 +12,6 @@ translations:
 etymology:
   "`un-` + [kog](kog)"
 examples:
-  - bzo: "I **unkogged** tu akt so."
+  - bzo: "I **unkogged** tu [akt](akt) so."
     eng: "I **forgot** to do it."
 ---
