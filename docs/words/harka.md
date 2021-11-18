@@ -14,6 +14,6 @@ etymology: "
   ![](../assets/images/etymology/harka.png)
 "
 examples:
-  - bzo: "**Harka** hyumes have jambi oolah."
+  - bzo: "**Harka** hyumes have [jambi](jambi) oolah."
     eng: "**High class** people have a lot of money."
 ---
