@@ -11,5 +11,8 @@ translations:
   - "to obliterate; to destroy"
   - "to delete; to remove"
 etymology:
-  From English `current`
+  From English `nuke`
+examples:
+  - bzo: "Thu **nuked** c file?"
+    eng: "You **deleted** the file?"
 ---
