@@ -1,6 +1,6 @@
 ---
 title: wambi
-parent: Common Words
+parent: Words
 last_modified_date: 2021-11-06
 
 word: wambi

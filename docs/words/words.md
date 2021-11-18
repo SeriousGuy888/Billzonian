@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Common Words
+title: Words
 nav_order: 8
 has_children: true
 nav_exclude: false

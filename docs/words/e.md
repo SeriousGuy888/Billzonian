@@ -1,6 +1,6 @@
 ---
 title: e
-parent: Common Words
+parent: Words
 last_modified_date: 2021-10-21
 
 see_also:

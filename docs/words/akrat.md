@@ -1,6 +1,6 @@
 ---
 title: akrat
-parent: Common Words
+parent: Words
 last_modified_date: 2021-10-19
 
 see_also:

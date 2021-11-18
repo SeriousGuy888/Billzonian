@@ -1,6 +1,6 @@
 ---
 title: ak
-parent: Common Words
+parent: Words
 last_modified_date: 2021-10-20
 
 see_also:

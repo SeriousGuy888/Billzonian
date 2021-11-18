@@ -1,6 +1,6 @@
 ---
 title: skog
-parent: Common Words
+parent: Words
 last_modified_date: 2021-11-10
 
 see_also:
