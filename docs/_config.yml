@@ -28,6 +28,10 @@ defaults:
       nav_exclude: true
       layout: "dictionary_entry"
   - scope:
+      path: "examples"
+    values:
+      layout: "outdated_notice"
+  - scope:
       path: ""
     values:
       layout: "default"
