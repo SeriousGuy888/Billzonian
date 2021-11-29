@@ -30,7 +30,7 @@ defaults:
   - scope:
       path: "examples"
     values:
-      layout: "outdated_notice"
+      layout: "examples"
   - scope:
       path: ""
     values:
