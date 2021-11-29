@@ -1,0 +1,14 @@
+.example-with-translation {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.example-with-translation .bzo::before,
+.example-with-translation .eng::before {
+  font-size: 1.25rem;
+  font-variant: small-caps;
+}
+.example-with-translation .bzo::before { content: "Billzonian"; }
+.example-with-translation .eng::before { content: "English"; }
