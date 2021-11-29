@@ -4,6 +4,9 @@
   flex-wrap: wrap;
   justify-content: space-between;
 }
+.example-with-translation > div {
+  max-width: 45%;
+}
 
 .example-with-translation .bzo::before,
 .example-with-translation .eng::before {
