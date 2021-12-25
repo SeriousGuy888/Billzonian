@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Conjunctions"
-date: 2021-10-21
 categories: plans
 ---
 
