@@ -12,10 +12,10 @@ Here is the progress of doing that so far:
 
 | English | Billzonian |
 |---------|------------|
-| for     | -          |
+| for     | fer        |
 | and     | zel        |
 | nor     | -          |
 | but     | howf       |
-| or      | terv?      |
+| or      | terv       |
 | yet     | -          |
 | so      | therf      |
