@@ -12,59 +12,70 @@ layout: outdated_notice
 </style>
 
 <h2>{{ page.title }}</h2>
-{% if page.see_also %}
-  <span><em>
-    See also:
-    <span class="see-alsos">
-      {% for link in page.see_also %}
-        <a href="{{ link }}">{{ link }}</a>
-      {% endfor %}
-    </span>
-  </em></span>
-  <br>
-{% endif %}
-{% if page.alts %}
-  <span><em>
-    Alternate forms:
-    <span class="see-alsos">
-      {% for link in page.alts %}
-        <a href="{{ link }}">{{ link }}</a>
-      {% endfor %}
-    </span>
-  </em></span>
-{% endif %}
+{% if page.see %}
+  <hr>
+  <p>
+    This entry is listed as a variant form of <strong><a href="{{ page.see }}">{{ page.see }}</a></strong>.
+    <br>
+    The information for this entry will be found there instead.
+  </p>
 
-{{ "### Pronunciations" | markdownify }}
-<p class="transcriptions">
-  {% for transcription in page.transcriptions %}
-    <span>
-      <a href="http://ipa-reader.xyz/?text={{ transcription }}" target="_blank">/{{ transcription }}/</a>
-    </span>
-  {% endfor %}
-</p>
 
-{{ "### Translations" | markdownify }}
-<ol>
-  {% for translation in page.translations %}
-    <li>{{ translation | markdownify }}</li>
-  {% endfor %}
-</ol>
+{% else %}
+  {% if page.see_also %}
+    <span><em>
+      See also:
+      <span class="see-alsos">
+        {% for link in page.see_also %}
+          <a href="{{ link }}">{{ link }}</a>
+        {% endfor %}
+      </span>
+    </em></span>
+    <br>
+  {% endif %}
+  {% if page.alts %}
+    <span><em>
+      Alternate forms:
+      <span class="see-alsos">
+        {% for link in page.alts %}
+          <a href="{{ link }}">{{ link }}</a>
+        {% endfor %}
+      </span>
+    </em></span>
+  {% endif %}
 
-{% if page.etymology %}
-  {{ "### Etymology" | markdownify }}
-  <p>{{ page.etymology | markdownify }}</p>
-{% endif %}
+  {{ "### Pronunciations" | markdownify }}
+  <p class="transcriptions">
+    {% for transcription in page.transcriptions %}
+      <span>
+        <a href="http://ipa-reader.xyz/?text={{ transcription }}" target="_blank">/{{ transcription }}/</a>
+      </span>
+    {% endfor %}
+  </p>
 
-{% if page.examples %}
-  {{ "### Examples" | markdownify }}
-  {% for example in page.examples %}
-    <blockquote>
-      <p>
-        {{ example.bzo | markdownify }}<br>
-        {{ example.eng | markdownify }}
-      </p>
-    </blockquote>
-  {% endfor %}
+  {{ "### Translations" | markdownify }}
+  <ol>
+    {% for translation in page.translations %}
+      <li>{{ translation | markdownify }}</li>
+    {% endfor %}
+  </ol>
+
+  {% if page.etymology %}
+    {{ "### Etymology" | markdownify }}
+    <p>{{ page.etymology | markdownify }}</p>
+  {% endif %}
+
+  {% if page.examples %}
+    {{ "### Examples" | markdownify }}
+    {% for example in page.examples %}
+      <blockquote>
+        <p>
+          {{ example.bzo | markdownify }}<br>
+          {{ example.eng | markdownify }}
+        </p>
+      </blockquote>
+    {% endfor %}
+  {% endif %}
 {% endif %}
 
 <!-- page specific content down here lol -->
