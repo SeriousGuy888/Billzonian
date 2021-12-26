@@ -1,7 +1,7 @@
 ---
 title: akqwakk
 parent: Words
-last_modified_date: 2021-11-18
+last_modified_date: 2021-12-26
 
 alts:
   - "akrat"
@@ -13,6 +13,6 @@ translations:
 etymology:
   From Billzonian [akrat](akrat), and Billzonian `qwakk` from English `quack`.
 examples:
-  - bzo: "**Akqwakk**, thy honour."
+  - bzo: "**Akqwakk**."
     eng: "**Yes**, your honour."
 ---
