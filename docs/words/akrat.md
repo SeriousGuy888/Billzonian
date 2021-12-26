@@ -6,9 +6,8 @@ last_modified_date: 2021-11-18
 see_also:
   - unkrat
   - ak
-alts:
-  - "arkat"
-  - "akqwakk"
+  - arkat
+  - akqwakk
 transcriptions:
   - ˈækræt
 translations:
