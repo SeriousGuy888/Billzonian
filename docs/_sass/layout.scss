@@ -76,11 +76,17 @@
 .site-header,
 .site-footer {
   width: 100%;
+  
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
 
   @include mq(lg) {
     width: $nav-width;
   }
 }
+
 
 .site-nav {
   display: none;

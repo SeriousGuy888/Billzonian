@@ -25,7 +25,7 @@ defaults:
   - scope:
       path: "words"
     values:
-      nav_exclude: true
+      nav_exclude: false
       layout: "dictionary_entry"
   - scope:
       path: "examples"
