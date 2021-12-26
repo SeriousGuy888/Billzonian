@@ -1,7 +1,7 @@
 ---
 title: akrat
 parent: Words
-last_modified_date: 2021-11-18
+last_modified_date: 2021-12-26
 
 see_also:
   - unkrat
