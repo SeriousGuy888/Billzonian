@@ -4,7 +4,8 @@ parent: Words
 last_modified_date: 2021-11-18
 
 see_also:
-  - "unkrat"
+  - unkrat
+  - ak
 alts:
   - "arkat"
   - "akqwakk"
