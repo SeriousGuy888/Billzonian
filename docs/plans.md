@@ -1,5 +1,5 @@
 ---
-title: Plans
+title: Plans & Progress
 nav_order: 6
 ---
 
