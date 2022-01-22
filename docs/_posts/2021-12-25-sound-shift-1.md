@@ -22,10 +22,25 @@ Final /kt/ as in `vikt` becomes /k/, reflected in spelling as `vik`.
   - `affektion` → `affekment`
   - `effekt` → `effek`
 - `kakt` → `kat`
+  - `kaktes` → `kats`
 
 __Special Cases__
 - `konstrukt` → `trut` /ˈtʃɹʌt/
 - `akt` does not change.
+
+-----
+
+## Shift of /h/ to /ʃ/ before /j/ and /i/
+`/hj/` and `/hi/`, spelled in some words as `hy`, `hi`, or `hu`, begins to mutate into `/ʃj/` and then to `/ʃ/`, reflected in spelling as `sh`.
+
+> `hyume` /ˈhjum/ (human, person)  
+> `shoom` /ˈʃum/
+
+> `hir` /ˈhjiɹ/ (here)  
+> `shir` /ˈʃiɹ/
+
+> `hue` /ˈhju/ (hue)  
+> `shue` /ˈʃu/
 
 -----
 
@@ -37,7 +52,7 @@ __Special Cases__
 
 -----
 
-## Recently Coined Words
+## Newly Coined Words
 - **NWARET**, by Hoang
   `night`
   (French *noir*)
@@ -66,7 +81,7 @@ __Special Cases__
 -----
 
 ## Respelling of "Interestsome"
-The word `interestsome` is far more commonly used than its lemma form, `interest`.
+The word `interestsome` is far more commonly used than its stem, `interest`.
 It therefore makes sense to respell it without the silent T, since the original word is almost never used.
 Maybe the silent Es should also be removed 🤔🤔🤔  
 `interestsome` → `interessome` /ˈɪntʃɹɛsəm/
