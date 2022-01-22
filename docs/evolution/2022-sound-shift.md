@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "2022 Sound Shifts"
-parent: Sound Shifts
+parent: Evolution
 last_modified_date: 2022-01-22
 ---
 
@@ -12,37 +12,37 @@ In addition, new vocabulary shall be coined to replace English vocabulary.
 
 -----
 
+## Shift of /h/ to /ʃ/ before /j/ and /i/
+`/hj/` and `/hi/`, spelled in some words as `hy`, `hi`, or `hu`, begins to mutate into `/ʃj/` and then to `/ʃ/`, reflected in spelling as `sh`.
+
+> `hyume` /ˈhjum/ "human, person"  
+> `shoom` /ˈʃum/
+
+> `hir` /ˈhjiɹ/ "here"  
+> `shir` /ˈʃiɹ/
+
+> `hue` /ˈhju/ "hue"  
+> `shue` /ˈʃu/
+
+-----
+
 ## Shift of Word-Final /kt/ to /t/
 Final /kt/ as in `vikt` becomes /k/, reflected in spelling as `vik`.
 
-- `vikt` → `vik`
+- `vikt` → `vik` "to win"
   - `vikteur` → `vikkeur`
   - `viktion` → `vikment`
-- `insekt` → `insek`
+- `insekt` → `insek` "bug, glitch"
   - `insektful` → `insekful`
-- `affekt` → `affek`
+- `affekt` → `affek` "to feel (emotionally)"
   - `affektion` → `affekment`
   - `effekt` → `effek`
-- `kakt` → `kat`
+- `kakt` → `kat` "cactus"
   - `kaktes` → `kats`
 
 __Special Cases__
 - `konstrukt` → `trut` /ˈtʃɹʌt/
 - `akt` does not change.
-
------
-
-## Shift of /h/ to /ʃ/ before /j/ and /i/
-`/hj/` and `/hi/`, spelled in some words as `hy`, `hi`, or `hu`, begins to mutate into `/ʃj/` and then to `/ʃ/`, reflected in spelling as `sh`.
-
-> `hyume` /ˈhjum/ (human, person)  
-> `shoom` /ˈʃum/
-
-> `hir` /ˈhjiɹ/ (here)  
-> `shir` /ˈʃiɹ/
-
-> `hue` /ˈhju/ (hue)  
-> `shue` /ˈʃu/
 
 -----
 
