@@ -34,7 +34,7 @@ Final /kt/ as in `vikt` becomes /k/, reflected in spelling as `vik`.
   - `viktion` → `vikment`
 - `insekt` → `insek` "bug, glitch"
   - `insektful` → `insekful`
-- `affekt` → `affek` "to feel (emotionally)"
+- `affekt` → `affek` "to affect; to feel (emotionally)"
   - `affektion` → `affekment`
   - `effekt` → `effek`
 - `kakt` → `kat` "cactus"
