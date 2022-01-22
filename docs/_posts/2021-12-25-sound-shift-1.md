@@ -21,6 +21,7 @@ Final /kt/ as in `vikt` becomes /k/, reflected in spelling as `vik`.
 - `affekt` → `affek`
   - `affektion` → `affekment`
   - `effekt` → `effek`
+- `kakt` → `kat`
 
 __Special Cases__
 - `konstrukt` → `trut` /ˈtʃɹʌt/
