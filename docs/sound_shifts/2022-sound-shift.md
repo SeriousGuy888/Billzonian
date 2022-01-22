@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "Billzonian Going Into 2022"
-categories: plans
+layout: default
+title: "2022 Sound Shifts"
+parent: Sound Shifts
+last_modified_date: 2022-01-22
 ---
 
+# {{ page.title }}
 I would like to make Billzonian become substantially different from English in 2022.
 It is time for some sounds to shift and words to shorten I think.
 In addition, new vocabulary shall be coined to replace English vocabulary.
