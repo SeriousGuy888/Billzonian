@@ -37,8 +37,8 @@ Final /kt/ as in `vikt` becomes /k/, reflected in spelling as `vik`.
 - `affekt` → `affek` "to affect; to feel (emotionally)"
   - `affektion` → `affekment`
   - `effekt` → `effek`
-- `kakt` → `kat` "cactus"
-  - `kaktes` → `kats`
+- `kakt` → `kak` "cactus"
+  - `kaktes` → `kaks`
 
 __Special Cases__
 - `konstrukt` → `trut` /ˈtʃɹʌt/
