@@ -26,7 +26,7 @@ In addition, new vocabulary shall be coined to replace English vocabulary.
 
 -----
 
-## Shift of Word-Final /kt/ to /t/
+## Shift of Word-Final /kt/ to /k/
 Final /kt/ as in `vikt` becomes /k/, reflected in spelling as `vik`.
 
 - `vikt` → `vik` "to win"
