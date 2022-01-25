@@ -18,7 +18,7 @@ In addition, new vocabulary shall be coined to replace English vocabulary.
 > `hyume` /ˈhjum/ "human, person"  
 > `shoom` /ˈʃum/
 
-> `hir` /ˈhjiɹ/ "here"  
+> `hir` /ˈhiɹ/ "here"  
 > `shir` /ˈʃiɹ/
 
 > `hue` /ˈhju/ "hue"  
