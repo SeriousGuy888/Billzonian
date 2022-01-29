@@ -12,7 +12,7 @@ This page lists some proposed sound shifts, like those that occur to natural lan
 
 In addition, new vocabulary shall be coined to replace English vocabulary.
 
-*This page uses [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) for phonemic transcription, (indicated with forward slashes, eg: /aɪ pi eɪ/). [Here](http://ipa-reader.xyz/) is a website to read the IPA notation for you if you cannot read it.*
+*This page uses [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) for phonemic transcription, (indicated with forward slashes, eg: /bakalaˈɹatʃi/). [Here](http://ipa-reader.xyz/) is a website to read the IPA notation for you if you cannot read it.*
 
 -----
 
